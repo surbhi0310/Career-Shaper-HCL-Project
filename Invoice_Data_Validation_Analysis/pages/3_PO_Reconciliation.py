@@ -19,6 +19,12 @@ df_pos = load_table("purchase_orders")
 df_vendors = load_table("vendors")
 
 recon_df = reconcile_po_variance(df_invoices, df_pos)
+if "vendor_id" not in recon_df.columns:
+    if "vendor_id_inv" in recon_df.columns:
+        recon_df["vendor_id"] = recon_df["vendor_id_inv"]
+    elif "vendor_id_po" in recon_df.columns:
+        recon_df["vendor_id"] = recon_df["vendor_id_po"]
+
 recon_df = recon_df.merge(df_vendors[["vendor_id", "vendor_name"]], on="vendor_id", how="left")
 
 # Tolerance Filter

@@ -63,6 +63,10 @@ def reconcile_po_variance(invoices_df, pos_df, tolerance_pct=0.02):
     Flags invoices exceeding approved PO budget beyond tolerance.
     """
     merged = invoices_df.merge(pos_df, on="po_id", suffixes=("_inv", "_po"), how="inner")
+    if "vendor_id_inv" in merged.columns:
+        merged["vendor_id"] = merged["vendor_id_inv"]
+    elif "vendor_id_po" in merged.columns:
+        merged["vendor_id"] = merged["vendor_id_po"]
     merged["po_variance"] = merged["total_amount"] - merged["po_amount"]
     merged["variance_pct"] = np.round((merged["po_variance"] / merged["po_amount"]) * 100, 2)
     merged["is_over_budget"] = merged["variance_pct"] > (tolerance_pct * 100)
