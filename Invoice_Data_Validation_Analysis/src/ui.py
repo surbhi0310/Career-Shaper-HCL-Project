@@ -57,10 +57,13 @@ def inject_custom_css():
             letter-spacing: 0.05em;
         }
         .kpi-val {
-            font-size: 24px;
+            font-size: 21px;
             font-weight: 700;
             color: #0F172A;
             margin-top: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
         .kpi-sub {
             font-size: 11.5px;
@@ -95,6 +98,19 @@ def render_header(title, subtitle):
     </div>
     """
     st.markdown(html, unsafe_allow_html=True)
+
+def format_inr(amount):
+    """
+    Formats large currency numbers in clean Indian notation (Cr / L / K)
+    """
+    if abs(amount) >= 10000000:
+        return f"₹{amount / 10000000:,.2f} Cr"
+    elif abs(amount) >= 100000:
+        return f"₹{amount / 100000:,.2f} L"
+    elif abs(amount) >= 1000:
+        return f"₹{amount / 1000:,.1f} K"
+    else:
+        return f"₹{amount:,.2f}"
 
 def render_kpi(label, value, subtext="", trend_class="val-primary"):
     html = f"""

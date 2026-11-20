@@ -256,7 +256,7 @@ def build_abes_document():
         ("Learner(s) & Roll No(s)", "Surbhi Sharma (Roll No: 2500320140152)"),
         ("Mentor", "Kalpana Dwivedi (Assistant Professor, MCA, ABES)"),
         ("GitHub repository", "https://github.com/2500320140152/invoice-validation-analytics"),
-        ("Live app (Streamlit)", "https://2500320140152-invoice-analytics.streamlit.app"),
+        ("Live app (Streamlit)", "https://invoicehclproject.streamlit.app"),
         ("Version & date", "v1.0 - 20/11/2026")
     ]
     cover_table.rows[0].cells[0].text = "Field"

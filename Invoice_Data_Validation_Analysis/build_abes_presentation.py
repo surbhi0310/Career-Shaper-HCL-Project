@@ -613,7 +613,7 @@ def build_presentation():
     tf_l11 = b_l11.text_frame
     tf_l11.vertical_anchor = MSO_ANCHOR.TOP
     p1 = tf_l11.paragraphs[0]
-    p1.text = "App: https://2500320140152-invoice-analytics.streamlit.app"
+    p1.text = "App: https://invoicehclproject.streamlit.app"
     p1.font.name = "Calibri"
     p1.font.size = Pt(14)
     p1.font.color.rgb = PINK

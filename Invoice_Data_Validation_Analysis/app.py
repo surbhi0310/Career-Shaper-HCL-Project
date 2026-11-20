@@ -8,7 +8,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from src.database import get_summary_metrics, load_table
-from src.ui import render_header, render_kpi
+from src.ui import render_header, render_kpi, format_inr
 
 st.set_page_config(
     page_title="Invoice Data Validation Platform | ABES",
@@ -24,7 +24,15 @@ def main():
     )
 
     # Sidebar project info
-    st.sidebar.image("https://img.icons8.com/color/96/000000/audit.png", width=70)
+    st.sidebar.markdown(
+        """
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px; padding: 8px 12px; background: #F1F5F9; border-radius: 8px;">
+            <span style="font-size: 26px;">📑</span>
+            <span style="font-size: 15px; font-weight: 700; color: #1E3A8A; letter-spacing: 0.02em;">AP AUDIT PORTAL</span>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
     st.sidebar.title("Navigation")
     st.sidebar.markdown("""
     **Project ID:** `PJ-IVD-2026`  
@@ -43,11 +51,11 @@ def main():
     with c1:
         render_kpi("Total Invoices Processed", f"{metrics['total_invoices']:,}", "100% Population Coverage", "val-primary")
     with c2:
-        render_kpi("Total Procurement Spend", f"₹{metrics['total_spend']:,.2f}", "Across 30 Master Vendors", "val-primary")
+        render_kpi("Total Procurement Spend", format_inr(metrics['total_spend']), "Across 30 Master Vendors", "val-primary")
     with c3:
         render_kpi("Flagged Discrepancies", f"{metrics['total_discrepancies']:,}", f"Error Rate: {metrics['error_rate']}%", "val-danger")
     with c4:
-        render_kpi("Prevented Capital Leakage", f"₹{metrics['prevented_leakage']:,.2f}", f"{metrics['duplicate_invoices']} Duplicate Collisions", "val-success")
+        render_kpi("Prevented Capital Leakage", format_inr(metrics['prevented_leakage']), f"{metrics['duplicate_invoices']} Duplicate Collisions", "val-success")
 
     st.markdown("---")
 

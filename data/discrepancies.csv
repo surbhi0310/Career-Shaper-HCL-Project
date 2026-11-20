@@ -1,0 +1,70 @@
+disc_id,invoice_id,po_id,vendor_id,disc_type,severity,variance_amount,root_cause,status
+DISC-0001,INV-2026-0007,PO-2026-0140,VEN-012,Tax Rate Mismatch,Medium,14122.06,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0002,INV-2026-0010,PO-2026-0036,VEN-012,Arithmetic Mismatch,High,4557.02,"Quantity x Price + Tax != Total. Discrepancy of INR 4,557.02",Under Review
+DISC-0003,INV-2026-0018,UNMAPPED,VEN-022,Missing PO Reference,Medium,440366.69,Invoice received without an approved PO reference number.,Blocked
+DISC-0004,INV-2026-0020,PO-2026-0093,VEN-023,Arithmetic Mismatch,High,5982.59,"Quantity x Price + Tax != Total. Discrepancy of INR 5,982.59",Under Review
+DISC-0005,INV-2026-0025,UNMAPPED,VEN-025,Missing PO Reference,Medium,4925730.77,Invoice received without an approved PO reference number.,Blocked
+DISC-0006,INV-2026-0030,PO-2026-0030,VEN-022,Arithmetic Mismatch,High,5327.27,"Quantity x Price + Tax != Total. Discrepancy of INR 5,327.27",Under Review
+DISC-0007,INV-2026-0043,PO-2026-0090,VEN-012,Arithmetic Mismatch,High,6308.33,"Quantity x Price + Tax != Total. Discrepancy of INR 6,308.33",Under Review
+DISC-0008,INV-2026-0044,PO-2026-0002,VEN-015,Arithmetic Mismatch,High,2169.08,"Quantity x Price + Tax != Total. Discrepancy of INR 2,169.08",Under Review
+DISC-0009,INV-2026-0045,PO-2026-0118,VEN-010,Tax Rate Mismatch,Medium,136339.79,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0010,INV-2026-0063,PO-2026-0011,VEN-008,Arithmetic Mismatch,High,4504.96,"Quantity x Price + Tax != Total. Discrepancy of INR 4,504.96",Under Review
+DISC-0011,INV-2026-0081,PO-2026-0066,VEN-008,Tax Rate Mismatch,Medium,20309.99,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0012,INV-2026-0082,UNMAPPED,VEN-025,Missing PO Reference,Medium,867357.76,Invoice received without an approved PO reference number.,Blocked
+DISC-0013,INV-2026-0085,PO-2026-0020,VEN-004,Tax Rate Mismatch,Medium,9925.44,Statutory tax rate violated. Applied 28.000000000000004% instead of standard bracket.,Escalated to Vendor
+DISC-0014,INV-2026-0086,PO-2026-0117,VEN-020,Arithmetic Mismatch,High,2281.2,"Quantity x Price + Tax != Total. Discrepancy of INR 2,281.20",Under Review
+DISC-0015,INV-2026-0088,PO-2026-0097,VEN-022,Tax Rate Mismatch,Medium,27994.6,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0016,INV-2026-0098,UNMAPPED,VEN-011,Missing PO Reference,Medium,304161.83,Invoice received without an approved PO reference number.,Blocked
+DISC-0017,INV-2026-0100,UNMAPPED,VEN-026,Missing PO Reference,Medium,36939.79,Invoice received without an approved PO reference number.,Blocked
+DISC-0018,INV-2026-0108,UNMAPPED,VEN-028,Missing PO Reference,Medium,1032377.13,Invoice received without an approved PO reference number.,Blocked
+DISC-0019,INV-2026-0111,PO-2026-0051,VEN-017,Arithmetic Mismatch,High,6264.75,"Quantity x Price + Tax != Total. Discrepancy of INR 6,264.75",Under Review
+DISC-0020,INV-2026-0122,PO-2026-0081,VEN-012,PO Budget Overrun,High,85233.93,"Billed amount exceeds authorized PO budget by INR 85,233.93",Pending Management Approval
+DISC-0021,INV-2026-0129,PO-2026-0101,VEN-023,Arithmetic Mismatch,High,4935.39,"Quantity x Price + Tax != Total. Discrepancy of INR 4,935.39",Under Review
+DISC-0022,INV-2026-0131,PO-2026-0013,VEN-023,Arithmetic Mismatch,High,3695.63,"Quantity x Price + Tax != Total. Discrepancy of INR 3,695.63",Under Review
+DISC-0023,INV-2026-0132,PO-2026-0093,VEN-023,Arithmetic Mismatch,High,2638.56,"Quantity x Price + Tax != Total. Discrepancy of INR 2,638.56",Under Review
+DISC-0024,INV-2026-0136,PO-2026-0036,VEN-012,Tax Rate Mismatch,Medium,11109.01,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0025,INV-2026-0141,UNMAPPED,VEN-027,Missing PO Reference,Medium,2944365.1,Invoice received without an approved PO reference number.,Blocked
+DISC-0026,INV-2026-0143,PO-2026-0093,VEN-023,Tax Rate Mismatch,Medium,63790.14,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0027,INV-2026-0146,PO-2026-0142,VEN-016,Tax Rate Mismatch,Medium,10466.36,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0028,INV-2026-0147,PO-2026-0140,VEN-012,Arithmetic Mismatch,High,7381.81,"Quantity x Price + Tax != Total. Discrepancy of INR 7,381.81",Under Review
+DISC-0029,INV-2026-0150,PO-2026-0070,VEN-023,Arithmetic Mismatch,High,1239.6,"Quantity x Price + Tax != Total. Discrepancy of INR 1,239.60",Under Review
+DISC-0030,INV-2026-0153,PO-2026-0032,VEN-026,Arithmetic Mismatch,High,4912.08,"Quantity x Price + Tax != Total. Discrepancy of INR 4,912.08",Under Review
+DISC-0031,INV-2026-0160,PO-2026-0146,VEN-023,Arithmetic Mismatch,High,4711.64,"Quantity x Price + Tax != Total. Discrepancy of INR 4,711.64",Under Review
+DISC-0032,INV-2026-0160,UNMAPPED,VEN-023,Missing PO Reference,Medium,798175.95,Invoice received without an approved PO reference number.,Blocked
+DISC-0033,INV-2026-0166,PO-2026-0042,VEN-013,Tax Rate Mismatch,Medium,9900.88,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0034,INV-2026-0172,PO-2026-0039,VEN-027,Arithmetic Mismatch,High,6671.58,"Quantity x Price + Tax != Total. Discrepancy of INR 6,671.58",Under Review
+DISC-0035,INV-2026-0174,PO-2026-0082,VEN-002,Arithmetic Mismatch,High,3707.1,"Quantity x Price + Tax != Total. Discrepancy of INR 3,707.10",Under Review
+DISC-0036,INV-2026-0183,UNMAPPED,VEN-016,Missing PO Reference,Medium,834948.23,Invoice received without an approved PO reference number.,Blocked
+DISC-0037,INV-2026-0187,PO-2026-0092,VEN-004,Arithmetic Mismatch,High,1183.22,"Quantity x Price + Tax != Total. Discrepancy of INR 1,183.22",Under Review
+DISC-0038,INV-2026-0188,PO-2026-0086,VEN-004,Arithmetic Mismatch,High,6707.9,"Quantity x Price + Tax != Total. Discrepancy of INR 6,707.90",Under Review
+DISC-0039,INV-2026-0190,PO-2026-0077,VEN-001,Arithmetic Mismatch,High,4485.83,"Quantity x Price + Tax != Total. Discrepancy of INR 4,485.83",Under Review
+DISC-0040,INV-2026-0194,UNMAPPED,VEN-001,Missing PO Reference,Medium,5557363.51,Invoice received without an approved PO reference number.,Blocked
+DISC-0041,INV-2026-0199,PO-2026-0085,VEN-006,Tax Rate Mismatch,Medium,12027.05,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0042,INV-2026-0200,PO-2026-0110,VEN-005,Tax Rate Mismatch,Medium,111025.19,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0043,INV-2026-0207,PO-2026-0147,VEN-008,Tax Rate Mismatch,Medium,75858.53,Statutory tax rate violated. Applied 28.000000000000004% instead of standard bracket.,Escalated to Vendor
+DISC-0044,INV-2026-0216,PO-2026-0013,VEN-023,Arithmetic Mismatch,High,2259.39,"Quantity x Price + Tax != Total. Discrepancy of INR 2,259.39",Under Review
+DISC-0045,INV-2026-0222,PO-2026-0019,VEN-017,Arithmetic Mismatch,High,6059.5,"Quantity x Price + Tax != Total. Discrepancy of INR 6,059.50",Under Review
+DISC-0046,INV-2026-0223,PO-2026-0017,VEN-029,Arithmetic Mismatch,High,5301.15,"Quantity x Price + Tax != Total. Discrepancy of INR 5,301.15",Under Review
+DISC-0047,INV-2026-0225,PO-2026-0143,VEN-023,Tax Rate Mismatch,Medium,112224.32,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0048,INV-2026-0227,PO-2026-0018,VEN-015,Arithmetic Mismatch,High,5199.07,"Quantity x Price + Tax != Total. Discrepancy of INR 5,199.07",Under Review
+DISC-0049,INV-2026-0232,PO-2026-0124,VEN-026,Arithmetic Mismatch,High,5180.1,"Quantity x Price + Tax != Total. Discrepancy of INR 5,180.10",Under Review
+DISC-0050,INV-2026-0236,PO-2026-0145,VEN-004,Tax Rate Mismatch,Medium,42933.37,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0051,INV-2026-0245,PO-2026-0112,VEN-028,Arithmetic Mismatch,High,7244.71,"Quantity x Price + Tax != Total. Discrepancy of INR 7,244.71",Under Review
+DISC-0052,INV-2026-0246,PO-2026-0127,VEN-015,Arithmetic Mismatch,High,5987.72,"Quantity x Price + Tax != Total. Discrepancy of INR 5,987.72",Under Review
+DISC-0053,INV-2026-0247,PO-2026-0052,VEN-006,Arithmetic Mismatch,High,6308.35,"Quantity x Price + Tax != Total. Discrepancy of INR 6,308.35",Under Review
+DISC-0054,INV-2026-0250,PO-2026-0064,VEN-025,Tax Rate Mismatch,Medium,17442.62,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0055,INV-2026-0253,PO-2026-0148,VEN-017,Arithmetic Mismatch,High,1975.27,"Quantity x Price + Tax != Total. Discrepancy of INR 1,975.27",Under Review
+DISC-0056,INV-2026-0261,PO-2026-0135,VEN-011,Tax Rate Mismatch,Medium,345754.03,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0057,INV-2026-0266,PO-2026-0070,VEN-023,Tax Rate Mismatch,Medium,7365.69,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0058,INV-2026-0266,UNMAPPED,VEN-023,Missing PO Reference,Medium,2984348.54,Invoice received without an approved PO reference number.,Blocked
+DISC-0059,INV-2026-0268,PO-2026-0021,VEN-018,Arithmetic Mismatch,High,6390.78,"Quantity x Price + Tax != Total. Discrepancy of INR 6,390.78",Under Review
+DISC-0060,INV-2026-0276,PO-2026-0009,VEN-002,Arithmetic Mismatch,High,3064.48,"Quantity x Price + Tax != Total. Discrepancy of INR 3,064.48",Under Review
+DISC-0061,INV-2026-0281,UNMAPPED,VEN-003,Missing PO Reference,Medium,412529.03,Invoice received without an approved PO reference number.,Blocked
+DISC-0062,INV-2026-0285,PO-2026-0148,VEN-017,Arithmetic Mismatch,High,1077.82,"Quantity x Price + Tax != Total. Discrepancy of INR 1,077.82",Under Review
+DISC-0063,INV-2026-0293,PO-2026-0143,VEN-023,Arithmetic Mismatch,High,3175.45,"Quantity x Price + Tax != Total. Discrepancy of INR 3,175.45",Under Review
+DISC-0064,INV-2026-0295,PO-2026-0041,VEN-024,Tax Rate Mismatch,Medium,48765.23,Statutory tax rate violated. Applied 5.0% instead of standard bracket.,Escalated to Vendor
+DISC-0065,INV-2026-0298,PO-2026-0052,VEN-006,Arithmetic Mismatch,High,3702.81,"Quantity x Price + Tax != Total. Discrepancy of INR 3,702.81",Under Review
+DISC-0066,INV-2026-0301,PO-2026-0060,VEN-015,Duplicate Billing Collision,Critical,1091925.21,"Duplicate invoice detected for vendor VEN-015 matching INV-2026-0090 (Amount: INR 1,091,925.21)",Rejected
+DISC-0067,INV-2026-0302,UNMAPPED,VEN-022,Duplicate Billing Collision,Critical,440366.69,"Duplicate invoice detected for vendor VEN-022 matching INV-2026-0018 (Amount: INR 440,366.69)",Rejected
+DISC-0068,INV-2026-0303,PO-2026-0015,VEN-001,Duplicate Billing Collision,Critical,7594455.98,"Duplicate invoice detected for vendor VEN-001 matching INV-2026-0053 (Amount: INR 7,594,455.98)",Rejected
+DISC-0069,INV-2026-0304,PO-2026-0036,VEN-012,Duplicate Billing Collision,Critical,2470876.34,"Duplicate invoice detected for vendor VEN-012 matching INV-2026-0058 (Amount: INR 2,470,876.34)",Rejected

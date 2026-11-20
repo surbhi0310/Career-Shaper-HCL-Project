@@ -8,7 +8,7 @@ import pandas as pd
 import plotly.express as px
 from src.database import load_table, get_summary_metrics
 from src.analytics import get_monthly_spend_trend
-from src.ui import render_header, render_kpi
+from src.ui import render_header, render_kpi, format_inr
 
 st.set_page_config(page_title="Executive KPIs | Invoice Analytics", layout="wide")
 
@@ -19,9 +19,9 @@ c1, c2, c3, c4 = st.columns(4)
 with c1:
     render_kpi("Total Invoices", f"{metrics['total_invoices']:,}", "Analyzed in SQLite", "val-primary")
 with c2:
-    render_kpi("Gross Spend", f"₹{metrics['total_spend']:,.2f}", "Total Billed Value", "val-primary")
+    render_kpi("Gross Spend", format_inr(metrics['total_spend']), "Total Billed Value", "val-primary")
 with c3:
-    render_kpi("Flagged Leakage", f"₹{metrics['prevented_leakage']:,.2f}", f"{metrics['total_discrepancies']} Invoices Flagged", "val-danger")
+    render_kpi("Flagged Leakage", format_inr(metrics['prevented_leakage']), f"{metrics['total_discrepancies']} Invoices Flagged", "val-danger")
 with c4:
     render_kpi("Discrepancy Rate", f"{metrics['error_rate']}%", "Industry Avg: 2.0% - 3.5%", "val-warning")
 
