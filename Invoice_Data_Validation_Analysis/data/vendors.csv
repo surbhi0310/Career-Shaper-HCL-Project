@@ -1,0 +1,31 @@
+vendor_id,vendor_name,gstin,category,city,payment_terms_days,is_high_risk,baseline_reliability
+VEN-001,Tata Consultancy Infotech Ltd,09AAAC1409B1Z5,Logistics & Freight,"Mumbai, MH",30,0,0.97
+VEN-002,Infosys Enterprise Hardware Ltd,08AAAC2424C1Z7,IT Hardware & Servers,"Noida, UP",15,0,0.94
+VEN-003,Larsen & Toubro Electricals Ltd,08AAAC1434D1Z9,Logistics & Freight,"Kolkata, WB",60,0,0.94
+VEN-004,Reliance Digital Supplies Pvt Ltd,06AAAC5557E1Z1,Office Supplies & Furniture,"Pune, MH",45,1,0.61
+VEN-005,Mahindra Industrial Logistics,29AAAC6514F1Z2,Cloud Infrastructure,"Pune, MH",15,0,0.95
+VEN-006,Godrej Corporate Furnishings,33AAAC5333G1Z1,Security Services,"Kolkata, WB",15,0,0.99
+VEN-007,Wipro Cloud Solutions India,24AAAC2291H1Z9,Industrial Machinery,"Jaipur, RJ",45,0,0.96
+VEN-008,Adani Power & Utilities Ltd,09AAAC1750I1Z4,Industrial Machinery,"Gurugram, HR",30,0,0.98
+VEN-009,Bharat Heavy Industrial Equipment,24AAAC5554J1Z8,Facility Management,"Bengaluru, KA",45,0,0.94
+VEN-010,Havells Commercial Electricals,36AAAC2169K1Z3,Logistics & Freight,"Bengaluru, KA",60,0,0.95
+VEN-011,Blue Dart Express Logistics,08AAAC4598L1Z6,IT Hardware & Servers,"Mumbai, MH",15,0,0.98
+VEN-012,HCL Services & Peripherals,24AAAC5386M1Z2,Logistics & Freight,"Jaipur, RJ",45,1,0.59
+VEN-013,TVS Supply Chain Solutions,19AAAC7482N1Z8,Office Supplies & Furniture,"Hyderabad, TS",30,0,0.94
+VEN-014,Voltas Facility Aircon Ltd,08AAAC9830O1Z5,Consulting & Legal,"Jaipur, RJ",60,0,0.95
+VEN-015,Tech Mahindra Digital Networks,27AAAC9348P1Z8,Cloud Infrastructure,"Noida, UP",15,0,0.93
+VEN-016,Bajaj Corporate Solutions,27AAAC7916Q1Z2,Consulting & Legal,"Pune, MH",60,0,0.96
+VEN-017,Kirloskar Power Systems,08AAAC1188R1Z2,Industrial Machinery,"Chennai, TN",15,0,0.94
+VEN-018,Asian Paints Industrial Coating,27AAAC8433S1Z1,Industrial Machinery,"Kolkata, WB",30,0,0.96
+VEN-019,Pidilite Construction Chemicals,09AAAC5889T1Z9,Logistics & Freight,"Bengaluru, KA",45,0,0.97
+VEN-020,Schneider Electric India,08AAAC9689U1Z1,Facility Management,"Ahmedabad, GJ",15,0,0.93
+VEN-021,Siemens Healthineers India,33AAAC6038V1Z4,IT Hardware & Servers,"Mumbai, MH",15,0,0.93
+VEN-022,Bosch Automotive Services,19AAAC2133W1Z9,Office Supplies & Furniture,"Bengaluru, KA",60,0,0.99
+VEN-023,Sterling & Wilson Energy,27AAAC5342X1Z9,Consulting & Legal,"Mumbai, MH",30,1,0.69
+VEN-024,Thermax Boiler Systems,24AAAC7118Y1Z8,Security Services,"Gurugram, HR",30,0,0.94
+VEN-025,Crompton Greaves Commercial,33AAAC1344Z1Z9,Logistics & Freight,"Jaipur, RJ",30,0,0.92
+VEN-026,Titan Corporate Gifting,07AAAC4750A1Z2,IT Hardware & Servers,"Chennai, TN",15,0,0.96
+VEN-027,ITC Paperboards & Packaging,36AAAC8953B1Z4,Office Supplies & Furniture,"Jaipur, RJ",60,0,0.94
+VEN-028,DCM Shriram Enterprises,19AAAC7669C1Z4,Cloud Infrastructure,"Gurugram, HR",60,0,0.94
+VEN-029,Polycab Wires & Cables Ltd,24AAAC8651D1Z1,Cloud Infrastructure,"Noida, UP",60,0,0.97
+VEN-030,Apollo Tyres Fleet Supplies,09AAAC5073E1Z4,Logistics & Freight,"Kolkata, WB",60,0,0.93

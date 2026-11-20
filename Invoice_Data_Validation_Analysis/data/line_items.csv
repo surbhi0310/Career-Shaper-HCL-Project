@@ -1,0 +1,1057 @@
+item_id,invoice_id,item_description,category,quantity,unit_price,tax_rate,tax_amount,line_total,has_discrepancy
+LIT-00001,INV-2026-0001,Heavy Pallet Hydraulic Jack,Industrial Machinery,6,27874.96,0.18,30104.96,197354.72,0
+LIT-00002,INV-2026-0001,Copper Armoured Cable 100m Roll,Industrial Machinery,12,18892.87,0.18,40808.6,267523.04,0
+LIT-00003,INV-2026-0001,Ergonomic Mesh Office Chair,Office Supplies & Furniture,4,8561.03,0.18,6163.94,40408.06,0
+LIT-00004,INV-2026-0001,Copper Armoured Cable 100m Roll,Industrial Machinery,1,20037.31,0.18,3606.72,23644.03,0
+LIT-00005,INV-2026-0001,Industrial Diesel Generator 25kVA,Industrial Machinery,12,327830.56,0.28,1101510.68,5035477.4,0
+LIT-00006,INV-2026-0002,Interstate Fleet Haulage Service,Logistics & Freight,6,36628.74,0.05,10988.62,230761.06,0
+LIT-00007,INV-2026-0002,Copper Armoured Cable 100m Roll,Industrial Machinery,14,18720.71,0.18,47176.19,309266.13,0
+LIT-00008,INV-2026-0003,Dell PowerEdge R750 Server,IT Hardware & Servers,13,177134.32,0.18,414494.31,2717240.47,0
+LIT-00009,INV-2026-0003,Modular Workstation Desk,Office Supplies & Furniture,12,15741.7,0.18,34002.07,222902.47,0
+LIT-00010,INV-2026-0003,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,28419.54,0.18,71617.24,469490.8,0
+LIT-00011,INV-2026-0003,Industrial Diesel Generator 25kVA,Industrial Machinery,14,331274.92,0.28,1298597.69,5936446.57,0
+LIT-00012,INV-2026-0003,Interstate Fleet Haulage Service,Logistics & Freight,6,34580.03,0.05,10374.01,217854.19,0
+LIT-00013,INV-2026-0003,Corporate Legal Due Diligence,Consulting & Legal,13,122624.61,0.18,286941.59,1881061.52,0
+LIT-00014,INV-2026-0004,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8709.75,0.18,10974.28,71942.53,0
+LIT-00015,INV-2026-0004,Cisco Core Switch 24-Port,IT Hardware & Servers,12,46171.66,0.18,99730.79,653790.71,0
+LIT-00016,INV-2026-0004,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18720.99,0.18,10109.33,66272.3,0
+LIT-00017,INV-2026-0005,Heavy Pallet Hydraulic Jack,Industrial Machinery,9,27007.6,0.18,43752.31,286820.71,0
+LIT-00018,INV-2026-0005,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,28184.6,0.18,65951.96,432351.76,0
+LIT-00019,INV-2026-0005,Dell PowerEdge R750 Server,IT Hardware & Servers,2,178894.7,0.18,64402.09,422191.49,0
+LIT-00020,INV-2026-0006,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8466.98,0.18,7620.28,49955.18,0
+LIT-00021,INV-2026-0006,Logistics Freight Container Shipment,Logistics & Freight,1,40972.37,0.05,2048.62,43020.99,0
+LIT-00022,INV-2026-0007,Facility HVAC Annual Maintenance,Facility Management,7,93091.97,0.18,117295.88,768939.67,0
+LIT-00023,INV-2026-0007,Modular Workstation Desk,Office Supplies & Furniture,7,15518.75,0.05,5431.56,114062.81,1
+LIT-00024,INV-2026-0007,Heavy Pallet Hydraulic Jack,Industrial Machinery,10,28201.38,0.18,50762.48,332776.28,0
+LIT-00025,INV-2026-0008,Facility HVAC Annual Maintenance,Facility Management,13,98468.14,0.18,230415.45,1510501.27,0
+LIT-00026,INV-2026-0009,Facility HVAC Annual Maintenance,Facility Management,4,97868.35,0.18,70465.21,461938.61,0
+LIT-00027,INV-2026-0009,Corporate Legal Due Diligence,Consulting & Legal,5,116281.58,0.18,104653.42,686061.32,0
+LIT-00028,INV-2026-0010,Corporate Legal Due Diligence,Consulting & Legal,13,114473.07,0.18,267866.98,1760573.91,1
+LIT-00029,INV-2026-0010,Security Guard Force Monthly Retainer,Security Services,15,62604.18,0.18,169031.29,1108093.99,0
+LIT-00030,INV-2026-0010,Modular Workstation Desk,Office Supplies & Furniture,7,15722.75,0.18,19810.67,129869.92,0
+LIT-00031,INV-2026-0010,Dell PowerEdge R750 Server,IT Hardware & Servers,13,179464.7,0.18,419947.4,2752988.5,0
+LIT-00032,INV-2026-0010,Interstate Fleet Haulage Service,Logistics & Freight,6,36317.61,0.05,10895.28,228800.94,0
+LIT-00033,INV-2026-0010,Interstate Fleet Haulage Service,Logistics & Freight,5,35006.28,0.05,8751.57,183782.97,0
+LIT-00034,INV-2026-0011,Industrial Coating Resin 50L Drum,Industrial Machinery,2,13942.0,0.18,5019.12,32903.12,0
+LIT-00035,INV-2026-0011,Dell PowerEdge R750 Server,IT Hardware & Servers,4,189701.8,0.18,136585.3,895392.5,0
+LIT-00036,INV-2026-0011,Copper Armoured Cable 100m Roll,Industrial Machinery,11,19843.83,0.18,39290.78,257572.91,0
+LIT-00037,INV-2026-0012,Modular Workstation Desk,Office Supplies & Furniture,8,16058.52,0.18,23124.27,151592.43,0
+LIT-00038,INV-2026-0013,Cisco Core Switch 24-Port,IT Hardware & Servers,8,45786.76,0.18,65932.93,432227.01,0
+LIT-00039,INV-2026-0013,Server Rack Chassis 42U,IT Hardware & Servers,9,75896.6,0.18,122952.49,806021.89,0
+LIT-00040,INV-2026-0013,Industrial Diesel Generator 25kVA,Industrial Machinery,4,333288.19,0.28,373282.77,1706435.53,0
+LIT-00041,INV-2026-0014,Server Rack Chassis 42U,IT Hardware & Servers,5,78346.96,0.18,70512.26,462247.06,0
+LIT-00042,INV-2026-0014,Logistics Freight Container Shipment,Logistics & Freight,4,40387.71,0.05,8077.54,169628.38,0
+LIT-00043,INV-2026-0015,Interstate Fleet Haulage Service,Logistics & Freight,12,34716.94,0.05,20830.16,437433.44,0
+LIT-00044,INV-2026-0015,Security Guard Force Monthly Retainer,Security Services,7,62754.4,0.18,79070.54,518351.34,0
+LIT-00045,INV-2026-0015,Corporate Legal Due Diligence,Consulting & Legal,8,115188.26,0.18,165871.09,1087377.17,0
+LIT-00046,INV-2026-0015,Facility HVAC Annual Maintenance,Facility Management,5,94127.1,0.18,84714.39,555349.89,0
+LIT-00047,INV-2026-0015,Server Rack Chassis 42U,IT Hardware & Servers,4,76427.1,0.18,55027.51,360735.91,0
+LIT-00048,INV-2026-0015,Logistics Freight Container Shipment,Logistics & Freight,4,41767.72,0.05,8353.54,175424.42,0
+LIT-00049,INV-2026-0016,Industrial Diesel Generator 25kVA,Industrial Machinery,5,305937.6,0.28,428312.64,1958000.64,0
+LIT-00050,INV-2026-0016,Ergonomic Mesh Office Chair,Office Supplies & Furniture,14,8897.98,0.18,22422.91,146994.63,0
+LIT-00051,INV-2026-0016,Copper Armoured Cable 100m Roll,Industrial Machinery,11,19411.7,0.18,38435.17,251963.87,0
+LIT-00052,INV-2026-0016,Ergonomic Mesh Office Chair,Office Supplies & Furniture,10,8620.45,0.18,15516.81,101721.31,0
+LIT-00053,INV-2026-0016,Server Rack Chassis 42U,IT Hardware & Servers,6,71629.34,0.18,77359.69,507135.73,0
+LIT-00054,INV-2026-0016,Ergonomic Mesh Office Chair,Office Supplies & Furniture,13,8915.5,0.18,20862.27,136763.77,0
+LIT-00055,INV-2026-0017,Industrial Diesel Generator 25kVA,Industrial Machinery,13,328779.79,0.28,1196758.44,5470895.71,0
+LIT-00056,INV-2026-0017,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6259.51,0.12,3755.71,35053.26,0
+LIT-00057,INV-2026-0018,Corporate Legal Due Diligence,Consulting & Legal,3,124397.37,0.18,67174.58,440366.69,0
+LIT-00058,INV-2026-0019,Dell PowerEdge R750 Server,IT Hardware & Servers,9,189471.78,0.18,306944.28,2012190.3,0
+LIT-00059,INV-2026-0020,Interstate Fleet Haulage Service,Logistics & Freight,10,34025.42,0.05,17012.71,363249.5,1
+LIT-00060,INV-2026-0020,Copper Armoured Cable 100m Roll,Industrial Machinery,5,19809.86,0.18,17828.87,116878.17,0
+LIT-00061,INV-2026-0020,Logistics Freight Container Shipment,Logistics & Freight,1,42602.03,0.05,2130.1,44732.13,0
+LIT-00062,INV-2026-0020,Server Rack Chassis 42U,IT Hardware & Servers,14,78739.4,0.18,198423.29,1300774.89,0
+LIT-00063,INV-2026-0021,Cisco Core Switch 24-Port,IT Hardware & Servers,6,46796.7,0.18,50540.44,331320.64,0
+LIT-00064,INV-2026-0021,Facility HVAC Annual Maintenance,Facility Management,3,91659.17,0.18,49495.95,324473.46,0
+LIT-00065,INV-2026-0021,Modular Workstation Desk,Office Supplies & Furniture,10,16198.91,0.18,29158.04,191147.14,0
+LIT-00066,INV-2026-0021,Interstate Fleet Haulage Service,Logistics & Freight,7,35742.53,0.05,12509.89,262707.6,0
+LIT-00067,INV-2026-0022,Cisco Core Switch 24-Port,IT Hardware & Servers,11,46587.57,0.18,92243.39,604706.66,0
+LIT-00068,INV-2026-0022,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6366.76,0.12,9168.13,85569.25,0
+LIT-00069,INV-2026-0022,Copper Armoured Cable 100m Roll,Industrial Machinery,8,18944.29,0.18,27279.78,178834.1,0
+LIT-00070,INV-2026-0022,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6031.67,0.12,4342.8,40532.82,0
+LIT-00071,INV-2026-0022,Copper Armoured Cable 100m Roll,Industrial Machinery,7,19409.32,0.18,24455.74,160320.98,0
+LIT-00072,INV-2026-0022,Security Guard Force Monthly Retainer,Security Services,7,62368.06,0.18,78583.76,515160.18,0
+LIT-00073,INV-2026-0023,Cisco Core Switch 24-Port,IT Hardware & Servers,12,44693.44,0.18,96537.83,632859.11,0
+LIT-00074,INV-2026-0024,Industrial Coating Resin 50L Drum,Industrial Machinery,15,14388.26,0.18,38848.3,254672.2,0
+LIT-00075,INV-2026-0024,Security Guard Force Monthly Retainer,Security Services,5,62084.4,0.18,55875.96,366297.96,0
+LIT-00076,INV-2026-0024,Facility HVAC Annual Maintenance,Facility Management,2,93218.26,0.18,33558.57,219995.09,0
+LIT-00077,INV-2026-0024,Facility HVAC Annual Maintenance,Facility Management,3,95070.42,0.18,51338.03,336549.29,0
+LIT-00078,INV-2026-0024,Corporate Legal Due Diligence,Consulting & Legal,14,119786.27,0.18,301861.4,1978869.18,0
+LIT-00079,INV-2026-0024,Cisco Core Switch 24-Port,IT Hardware & Servers,9,44325.51,0.18,71807.33,470736.92,0
+LIT-00080,INV-2026-0025,Facility HVAC Annual Maintenance,Facility Management,9,96662.28,0.18,156592.89,1026553.41,0
+LIT-00081,INV-2026-0025,Server Rack Chassis 42U,IT Hardware & Servers,11,75817.46,0.18,150118.57,984110.63,0
+LIT-00082,INV-2026-0025,Copper Armoured Cable 100m Roll,Industrial Machinery,1,19877.27,0.18,3577.91,23455.18,0
+LIT-00083,INV-2026-0025,Dell PowerEdge R750 Server,IT Hardware & Servers,13,180805.5,0.18,423084.87,2773556.37,0
+LIT-00084,INV-2026-0025,Modular Workstation Desk,Office Supplies & Furniture,6,16674.46,0.18,18008.42,118055.18,0
+LIT-00085,INV-2026-0026,Server Rack Chassis 42U,IT Hardware & Servers,9,71938.18,0.18,116539.85,763983.47,0
+LIT-00086,INV-2026-0026,Ergonomic Mesh Office Chair,Office Supplies & Furniture,8,8394.77,0.18,12088.47,79246.63,0
+LIT-00087,INV-2026-0026,Industrial Diesel Generator 25kVA,Industrial Machinery,5,309037.1,0.28,432651.94,1977837.44,0
+LIT-00088,INV-2026-0026,Security Guard Force Monthly Retainer,Security Services,10,63858.49,0.18,114945.28,753530.18,0
+LIT-00089,INV-2026-0026,Facility HVAC Annual Maintenance,Facility Management,1,91057.09,0.18,16390.28,107447.37,0
+LIT-00090,INV-2026-0026,Dell PowerEdge R750 Server,IT Hardware & Servers,10,178662.08,0.18,321591.74,2108212.54,0
+LIT-00091,INV-2026-0027,Modular Workstation Desk,Office Supplies & Furniture,9,15544.91,0.18,25182.75,165086.94,0
+LIT-00092,INV-2026-0027,Cisco Core Switch 24-Port,IT Hardware & Servers,2,44303.28,0.18,15949.18,104555.74,0
+LIT-00093,INV-2026-0027,Modular Workstation Desk,Office Supplies & Furniture,10,16285.15,0.18,29313.27,192164.77,0
+LIT-00094,INV-2026-0027,Logistics Freight Container Shipment,Logistics & Freight,5,42113.12,0.05,10528.28,221093.88,0
+LIT-00095,INV-2026-0028,Industrial Coating Resin 50L Drum,Industrial Machinery,5,13973.99,0.18,12576.59,82446.54,0
+LIT-00096,INV-2026-0028,Modular Workstation Desk,Office Supplies & Furniture,1,15725.0,0.18,2830.5,18555.5,0
+LIT-00097,INV-2026-0029,Interstate Fleet Haulage Service,Logistics & Freight,13,36166.74,0.05,23508.38,493676.0,0
+LIT-00098,INV-2026-0029,Industrial Diesel Generator 25kVA,Industrial Machinery,14,306306.42,0.28,1200721.17,5489011.05,0
+LIT-00099,INV-2026-0029,Security Guard Force Monthly Retainer,Security Services,1,62024.96,0.18,11164.49,73189.45,0
+LIT-00100,INV-2026-0029,Logistics Freight Container Shipment,Logistics & Freight,14,43768.88,0.05,30638.22,643402.54,0
+LIT-00101,INV-2026-0029,Industrial Diesel Generator 25kVA,Industrial Machinery,10,322424.29,0.28,902788.01,4127030.91,0
+LIT-00102,INV-2026-0030,Dell PowerEdge R750 Server,IT Hardware & Servers,10,190574.46,0.18,343034.03,2254105.9,1
+LIT-00103,INV-2026-0030,Industrial Diesel Generator 25kVA,Industrial Machinery,14,306820.16,0.28,1202735.03,5498217.27,0
+LIT-00104,INV-2026-0030,Cisco Core Switch 24-Port,IT Hardware & Servers,10,43844.92,0.18,78920.86,517370.06,0
+LIT-00105,INV-2026-0031,Industrial Diesel Generator 25kVA,Industrial Machinery,2,328931.77,0.28,184201.79,842065.33,0
+LIT-00106,INV-2026-0031,Interstate Fleet Haulage Service,Logistics & Freight,9,35466.29,0.05,15959.83,335156.44,0
+LIT-00107,INV-2026-0032,Cisco Core Switch 24-Port,IT Hardware & Servers,4,43409.0,0.18,31254.48,204890.48,0
+LIT-00108,INV-2026-0032,Dell PowerEdge R750 Server,IT Hardware & Servers,13,186894.38,0.18,437332.85,2866959.79,0
+LIT-00109,INV-2026-0033,Logistics Freight Container Shipment,Logistics & Freight,15,42760.76,0.05,32070.57,673481.97,0
+LIT-00110,INV-2026-0033,Facility HVAC Annual Maintenance,Facility Management,10,96358.42,0.18,173445.16,1137029.36,0
+LIT-00111,INV-2026-0033,Industrial Diesel Generator 25kVA,Industrial Machinery,11,331655.9,0.28,1021500.17,4669715.07,0
+LIT-00112,INV-2026-0033,Industrial Diesel Generator 25kVA,Industrial Machinery,2,308830.64,0.28,172945.16,790606.44,0
+LIT-00113,INV-2026-0033,Logistics Freight Container Shipment,Logistics & Freight,5,41757.27,0.05,10439.32,219225.67,0
+LIT-00114,INV-2026-0034,Server Rack Chassis 42U,IT Hardware & Servers,14,71676.68,0.18,180625.23,1184098.75,0
+LIT-00115,INV-2026-0034,Modular Workstation Desk,Office Supplies & Furniture,14,15322.77,0.18,38613.38,253132.16,0
+LIT-00116,INV-2026-0034,Copper Armoured Cable 100m Roll,Industrial Machinery,10,18701.08,0.18,33661.94,220672.74,0
+LIT-00117,INV-2026-0034,Interstate Fleet Haulage Service,Logistics & Freight,10,34595.69,0.05,17297.85,363254.75,0
+LIT-00118,INV-2026-0035,Facility HVAC Annual Maintenance,Facility Management,3,94768.48,0.18,51174.98,335480.42,0
+LIT-00119,INV-2026-0035,Server Rack Chassis 42U,IT Hardware & Servers,13,74628.92,0.18,174631.67,1144807.63,0
+LIT-00120,INV-2026-0035,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6409.17,0.12,9229.2,86139.24,0
+LIT-00121,INV-2026-0036,Interstate Fleet Haulage Service,Logistics & Freight,6,35384.32,0.05,10615.3,222921.22,0
+LIT-00122,INV-2026-0036,Industrial Diesel Generator 25kVA,Industrial Machinery,7,333373.98,0.28,653413.0,2987030.86,0
+LIT-00123,INV-2026-0036,Heavy Pallet Hydraulic Jack,Industrial Machinery,11,28768.5,0.18,56961.63,373415.13,0
+LIT-00124,INV-2026-0036,Facility HVAC Annual Maintenance,Facility Management,11,90747.47,0.18,179679.99,1177902.16,0
+LIT-00125,INV-2026-0036,Corporate Legal Due Diligence,Consulting & Legal,6,118015.79,0.18,127457.05,835551.79,0
+LIT-00126,INV-2026-0037,Copper Armoured Cable 100m Roll,Industrial Machinery,2,18818.23,0.18,6774.56,44411.02,0
+LIT-00127,INV-2026-0037,Facility HVAC Annual Maintenance,Facility Management,15,96554.32,0.18,260696.66,1709011.46,0
+LIT-00128,INV-2026-0037,Industrial Diesel Generator 25kVA,Industrial Machinery,11,313927.42,0.28,966896.45,4420098.07,0
+LIT-00129,INV-2026-0037,Security Guard Force Monthly Retainer,Security Services,3,66053.88,0.18,35669.1,233830.74,0
+LIT-00130,INV-2026-0037,Facility HVAC Annual Maintenance,Facility Management,2,96983.92,0.18,34914.21,228882.05,0
+LIT-00131,INV-2026-0038,Corporate Legal Due Diligence,Consulting & Legal,2,124949.38,0.18,44981.78,294880.54,0
+LIT-00132,INV-2026-0038,Corporate Legal Due Diligence,Consulting & Legal,9,122045.47,0.18,197713.66,1296122.89,0
+LIT-00133,INV-2026-0038,Industrial Diesel Generator 25kVA,Industrial Machinery,5,304583.38,0.28,426416.73,1949333.63,0
+LIT-00134,INV-2026-0038,Dell PowerEdge R750 Server,IT Hardware & Servers,6,193346.63,0.18,208814.36,1368894.14,0
+LIT-00135,INV-2026-0038,Industrial Coating Resin 50L Drum,Industrial Machinery,4,14480.09,0.18,10425.66,68346.02,0
+LIT-00136,INV-2026-0038,Dell PowerEdge R750 Server,IT Hardware & Servers,5,178616.49,0.18,160754.84,1053837.29,0
+LIT-00137,INV-2026-0039,Dell PowerEdge R750 Server,IT Hardware & Servers,3,186799.06,0.18,100871.49,661268.67,0
+LIT-00138,INV-2026-0039,Dell PowerEdge R750 Server,IT Hardware & Servers,12,179095.65,0.18,386846.6,2535994.4,0
+LIT-00139,INV-2026-0039,Industrial Coating Resin 50L Drum,Industrial Machinery,15,14680.87,0.18,39638.35,259851.4,0
+LIT-00140,INV-2026-0039,Dell PowerEdge R750 Server,IT Hardware & Servers,1,189091.89,0.18,34036.54,223128.43,0
+LIT-00141,INV-2026-0039,Heavy Pallet Hydraulic Jack,Industrial Machinery,12,27620.04,0.18,59659.29,391099.77,0
+LIT-00142,INV-2026-0040,Industrial Coating Resin 50L Drum,Industrial Machinery,15,14912.34,0.18,40263.32,263948.42,0
+LIT-00143,INV-2026-0040,Copper Armoured Cable 100m Roll,Industrial Machinery,11,18903.33,0.18,37428.59,245365.22,0
+LIT-00144,INV-2026-0040,Facility HVAC Annual Maintenance,Facility Management,8,99602.18,0.18,143427.14,940244.58,0
+LIT-00145,INV-2026-0041,Industrial Coating Resin 50L Drum,Industrial Machinery,14,14651.76,0.18,36922.44,242047.08,0
+LIT-00146,INV-2026-0041,Modular Workstation Desk,Office Supplies & Furniture,8,15283.49,0.18,22008.23,144276.15,0
+LIT-00147,INV-2026-0042,Modular Workstation Desk,Office Supplies & Furniture,9,15918.91,0.18,25788.63,169058.82,0
+LIT-00148,INV-2026-0042,Dell PowerEdge R750 Server,IT Hardware & Servers,2,191124.36,0.18,68804.77,451053.49,0
+LIT-00149,INV-2026-0043,Interstate Fleet Haulage Service,Logistics & Freight,7,34558.87,0.05,12095.6,254007.69,0
+LIT-00150,INV-2026-0043,Server Rack Chassis 42U,IT Hardware & Servers,2,73640.14,0.18,26510.45,173790.73,0
+LIT-00151,INV-2026-0043,Industrial Coating Resin 50L Drum,Industrial Machinery,1,13986.77,0.18,2517.62,22812.72,1
+LIT-00152,INV-2026-0043,Security Guard Force Monthly Retainer,Security Services,13,67152.22,0.18,157136.19,1030115.05,0
+LIT-00153,INV-2026-0044,Copper Armoured Cable 100m Roll,Industrial Machinery,12,18816.56,0.18,40643.77,266442.49,0
+LIT-00154,INV-2026-0044,Industrial Coating Resin 50L Drum,Industrial Machinery,5,14192.75,0.18,12773.48,85906.31,1
+LIT-00155,INV-2026-0045,Facility HVAC Annual Maintenance,Facility Management,11,95342.51,0.05,52438.38,1101205.99,1
+LIT-00156,INV-2026-0045,Dell PowerEdge R750 Server,IT Hardware & Servers,1,181138.53,0.18,32604.94,213743.47,0
+LIT-00157,INV-2026-0045,Facility HVAC Annual Maintenance,Facility Management,10,93601.75,0.18,168483.15,1104500.65,0
+LIT-00158,INV-2026-0045,Heavy Pallet Hydraulic Jack,Industrial Machinery,11,27124.48,0.18,53706.47,352075.75,0
+LIT-00159,INV-2026-0046,Interstate Fleet Haulage Service,Logistics & Freight,14,33321.17,0.05,23324.82,489821.2,0
+LIT-00160,INV-2026-0046,Logistics Freight Container Shipment,Logistics & Freight,7,40082.84,0.05,14028.99,294608.87,0
+LIT-00161,INV-2026-0046,Industrial Diesel Generator 25kVA,Industrial Machinery,1,312116.81,0.28,87392.71,399509.52,0
+LIT-00162,INV-2026-0046,Industrial Diesel Generator 25kVA,Industrial Machinery,6,329232.64,0.28,553110.84,2528506.68,0
+LIT-00163,INV-2026-0046,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8698.0,0.18,17222.04,112900.04,0
+LIT-00164,INV-2026-0047,Copper Armoured Cable 100m Roll,Industrial Machinery,14,19778.45,0.18,49841.69,326739.99,0
+LIT-00165,INV-2026-0047,Industrial Coating Resin 50L Drum,Industrial Machinery,12,14767.79,0.18,31898.43,209111.91,0
+LIT-00166,INV-2026-0047,Logistics Freight Container Shipment,Logistics & Freight,13,42553.29,0.05,27659.64,580852.41,0
+LIT-00167,INV-2026-0048,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,5915.98,0.12,10648.76,99388.46,0
+LIT-00168,INV-2026-0048,Modular Workstation Desk,Office Supplies & Furniture,14,16024.61,0.18,40382.02,264726.56,0
+LIT-00169,INV-2026-0049,Copper Armoured Cable 100m Roll,Industrial Machinery,5,19803.68,0.18,17823.31,116841.71,0
+LIT-00170,INV-2026-0050,Logistics Freight Container Shipment,Logistics & Freight,6,42806.69,0.05,12842.01,269682.15,0
+LIT-00171,INV-2026-0050,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6384.32,0.12,3830.59,35752.19,0
+LIT-00172,INV-2026-0051,Interstate Fleet Haulage Service,Logistics & Freight,2,34278.18,0.05,3427.82,71984.18,0
+LIT-00173,INV-2026-0051,Cisco Core Switch 24-Port,IT Hardware & Servers,5,44225.64,0.18,39803.08,260931.28,0
+LIT-00174,INV-2026-0052,Security Guard Force Monthly Retainer,Security Services,6,67405.24,0.18,72797.66,477229.1,0
+LIT-00175,INV-2026-0053,Industrial Diesel Generator 25kVA,Industrial Machinery,12,320418.75,0.28,1076607.0,4921632.0,0
+LIT-00176,INV-2026-0053,Corporate Legal Due Diligence,Consulting & Legal,1,115919.84,0.18,20865.57,136785.41,0
+LIT-00177,INV-2026-0053,Dell PowerEdge R750 Server,IT Hardware & Servers,11,191450.38,0.18,379071.75,2485025.93,0
+LIT-00178,INV-2026-0053,Industrial Coating Resin 50L Drum,Industrial Machinery,3,14410.35,0.18,7781.59,51012.64,0
+LIT-00179,INV-2026-0054,Facility HVAC Annual Maintenance,Facility Management,8,91707.66,0.18,132059.03,865720.31,0
+LIT-00180,INV-2026-0055,Industrial Diesel Generator 25kVA,Industrial Machinery,4,324785.94,0.28,363760.25,1662904.01,0
+LIT-00181,INV-2026-0055,Cisco Core Switch 24-Port,IT Hardware & Servers,3,42866.61,0.18,23147.97,151747.8,0
+LIT-00182,INV-2026-0055,Logistics Freight Container Shipment,Logistics & Freight,15,42074.53,0.05,31555.9,662673.85,0
+LIT-00183,INV-2026-0055,Interstate Fleet Haulage Service,Logistics & Freight,13,33662.16,0.05,21880.4,459488.48,0
+LIT-00184,INV-2026-0056,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18669.4,0.18,10081.48,66089.68,0
+LIT-00185,INV-2026-0056,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,2,6332.29,0.12,1519.75,14184.33,0
+LIT-00186,INV-2026-0057,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6075.97,0.12,2187.35,20415.26,0
+LIT-00187,INV-2026-0057,Security Guard Force Monthly Retainer,Security Services,12,66362.16,0.18,143342.27,939688.19,0
+LIT-00188,INV-2026-0057,Corporate Legal Due Diligence,Consulting & Legal,6,116089.09,0.18,125376.22,821910.76,0
+LIT-00189,INV-2026-0058,Industrial Diesel Generator 25kVA,Industrial Machinery,6,321728.69,0.28,540504.2,2470876.34,0
+LIT-00190,INV-2026-0059,Security Guard Force Monthly Retainer,Security Services,7,64861.32,0.18,81725.26,535754.5,0
+LIT-00191,INV-2026-0059,Industrial Coating Resin 50L Drum,Industrial Machinery,10,14368.68,0.18,25863.62,169550.42,0
+LIT-00192,INV-2026-0059,Cisco Core Switch 24-Port,IT Hardware & Servers,6,43313.97,0.18,46779.09,306662.91,0
+LIT-00193,INV-2026-0059,Corporate Legal Due Diligence,Consulting & Legal,8,114889.98,0.18,165441.57,1084561.41,0
+LIT-00194,INV-2026-0059,Corporate Legal Due Diligence,Consulting & Legal,3,120208.32,0.18,64912.49,425537.45,0
+LIT-00195,INV-2026-0059,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,9,6404.01,0.12,6916.33,64552.42,0
+LIT-00196,INV-2026-0060,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18767.11,0.18,10134.24,66435.57,0
+LIT-00197,INV-2026-0061,Modular Workstation Desk,Office Supplies & Furniture,9,15514.08,0.18,25132.81,164759.53,0
+LIT-00198,INV-2026-0062,Facility HVAC Annual Maintenance,Facility Management,3,99195.27,0.18,53565.45,351151.26,0
+LIT-00199,INV-2026-0062,Dell PowerEdge R750 Server,IT Hardware & Servers,12,187936.56,0.18,405942.97,2661181.69,0
+LIT-00200,INV-2026-0063,Industrial Coating Resin 50L Drum,Industrial Machinery,11,14611.32,0.18,28930.41,194159.88999999998,1
+LIT-00201,INV-2026-0063,Facility HVAC Annual Maintenance,Facility Management,8,96320.42,0.18,138701.4,909264.76,0
+LIT-00202,INV-2026-0063,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6278.84,0.12,3767.3,35161.5,0
+LIT-00203,INV-2026-0063,Corporate Legal Due Diligence,Consulting & Legal,8,125479.8,0.18,180690.91,1184529.31,0
+LIT-00204,INV-2026-0063,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8758.98,0.18,17342.78,113691.56,0
+LIT-00205,INV-2026-0063,Heavy Pallet Hydraulic Jack,Industrial Machinery,2,27432.81,0.18,9875.81,64741.43,0
+LIT-00206,INV-2026-0064,Industrial Diesel Generator 25kVA,Industrial Machinery,6,323413.13,0.28,543334.06,2483812.84,0
+LIT-00207,INV-2026-0064,Copper Armoured Cable 100m Roll,Industrial Machinery,12,19925.81,0.18,43039.75,282149.47,0
+LIT-00208,INV-2026-0065,Industrial Diesel Generator 25kVA,Industrial Machinery,2,311735.61,0.28,174571.94,798043.16,0
+LIT-00209,INV-2026-0066,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,27295.16,0.18,68783.8,450916.04,0
+LIT-00210,INV-2026-0066,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,5989.01,0.12,4312.09,40246.15,0
+LIT-00211,INV-2026-0066,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6248.17,0.12,4498.68,41987.7,0
+LIT-00212,INV-2026-0066,Ergonomic Mesh Office Chair,Office Supplies & Furniture,8,8723.65,0.18,12562.06,82351.26,0
+LIT-00213,INV-2026-0066,Interstate Fleet Haulage Service,Logistics & Freight,15,34883.85,0.05,26162.89,549420.64,0
+LIT-00214,INV-2026-0067,Facility HVAC Annual Maintenance,Facility Management,1,93602.5,0.18,16848.45,110450.95,0
+LIT-00215,INV-2026-0067,Modular Workstation Desk,Office Supplies & Furniture,15,15991.83,0.18,43177.94,283055.39,0
+LIT-00216,INV-2026-0068,Dell PowerEdge R750 Server,IT Hardware & Servers,12,192075.43,0.18,414882.93,2719788.09,0
+LIT-00217,INV-2026-0068,Industrial Diesel Generator 25kVA,Industrial Machinery,6,328443.42,0.28,551784.95,2522445.47,0
+LIT-00218,INV-2026-0068,Server Rack Chassis 42U,IT Hardware & Servers,10,74254.36,0.18,133657.85,876201.45,0
+LIT-00219,INV-2026-0068,Interstate Fleet Haulage Service,Logistics & Freight,9,33931.29,0.05,15269.08,320650.69,0
+LIT-00220,INV-2026-0069,Corporate Legal Due Diligence,Consulting & Legal,3,121332.52,0.18,65519.56,429517.12,0
+LIT-00221,INV-2026-0069,Cisco Core Switch 24-Port,IT Hardware & Servers,13,44522.57,0.18,104182.81,682976.22,0
+LIT-00222,INV-2026-0069,Industrial Diesel Generator 25kVA,Industrial Machinery,6,321850.62,0.28,540709.04,2471812.76,0
+LIT-00223,INV-2026-0069,Industrial Coating Resin 50L Drum,Industrial Machinery,10,13984.19,0.18,25171.54,165013.44,0
+LIT-00224,INV-2026-0069,Interstate Fleet Haulage Service,Logistics & Freight,1,34654.85,0.05,1732.74,36387.59,0
+LIT-00225,INV-2026-0070,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6209.61,0.12,4470.92,41728.58,0
+LIT-00226,INV-2026-0070,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6270.1,0.12,2257.24,21067.54,0
+LIT-00227,INV-2026-0070,Heavy Pallet Hydraulic Jack,Industrial Machinery,12,29373.72,0.18,63447.24,415931.88,0
+LIT-00228,INV-2026-0070,Copper Armoured Cable 100m Roll,Industrial Machinery,6,19108.51,0.18,20637.19,135288.25,0
+LIT-00229,INV-2026-0070,Interstate Fleet Haulage Service,Logistics & Freight,9,36149.01,0.05,16267.05,341608.14,0
+LIT-00230,INV-2026-0071,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,28234.37,0.18,66068.43,433115.24,0
+LIT-00231,INV-2026-0072,Industrial Coating Resin 50L Drum,Industrial Machinery,10,15184.48,0.18,27332.06,179176.86,0
+LIT-00232,INV-2026-0072,Facility HVAC Annual Maintenance,Facility Management,1,92411.66,0.18,16634.1,109045.76,0
+LIT-00233,INV-2026-0072,Facility HVAC Annual Maintenance,Facility Management,9,94814.26,0.18,153599.1,1006927.44,0
+LIT-00234,INV-2026-0072,Corporate Legal Due Diligence,Consulting & Legal,13,122654.19,0.18,287010.8,1881515.27,0
+LIT-00235,INV-2026-0072,Copper Armoured Cable 100m Roll,Industrial Machinery,14,19266.37,0.18,48551.25,318280.43,0
+LIT-00236,INV-2026-0072,Corporate Legal Due Diligence,Consulting & Legal,10,116906.36,0.18,210431.45,1379495.05,0
+LIT-00237,INV-2026-0073,Security Guard Force Monthly Retainer,Security Services,9,63075.3,0.18,102181.99,669859.69,0
+LIT-00238,INV-2026-0073,Industrial Coating Resin 50L Drum,Industrial Machinery,8,14661.64,0.18,21112.76,138405.88,0
+LIT-00239,INV-2026-0073,Copper Armoured Cable 100m Roll,Industrial Machinery,12,20179.34,0.18,43587.37,285739.45,0
+LIT-00240,INV-2026-0073,Server Rack Chassis 42U,IT Hardware & Servers,9,76543.31,0.18,124000.16,812889.95,0
+LIT-00241,INV-2026-0074,Logistics Freight Container Shipment,Logistics & Freight,6,43730.92,0.05,13119.28,275504.8,0
+LIT-00242,INV-2026-0074,Interstate Fleet Haulage Service,Logistics & Freight,13,34490.0,0.05,22418.5,470788.5,0
+LIT-00243,INV-2026-0075,Interstate Fleet Haulage Service,Logistics & Freight,5,34294.75,0.05,8573.69,180047.44,0
+LIT-00244,INV-2026-0075,Industrial Coating Resin 50L Drum,Industrial Machinery,4,14194.06,0.18,10219.72,66995.96,0
+LIT-00245,INV-2026-0075,Security Guard Force Monthly Retainer,Security Services,6,66332.42,0.18,71639.01,469633.53,0
+LIT-00246,INV-2026-0076,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,29108.13,0.18,36676.24,240433.15,0
+LIT-00247,INV-2026-0076,Copper Armoured Cable 100m Roll,Industrial Machinery,13,19198.01,0.18,44923.34,294497.47,0
+LIT-00248,INV-2026-0076,Industrial Coating Resin 50L Drum,Industrial Machinery,1,13987.39,0.18,2517.73,16505.12,0
+LIT-00249,INV-2026-0076,Modular Workstation Desk,Office Supplies & Furniture,2,16728.5,0.18,6022.26,39479.26,0
+LIT-00250,INV-2026-0076,Industrial Diesel Generator 25kVA,Industrial Machinery,11,333568.31,0.28,1027390.39,4696641.8,0
+LIT-00251,INV-2026-0077,Modular Workstation Desk,Office Supplies & Furniture,10,15419.64,0.18,27755.35,181951.75,0
+LIT-00252,INV-2026-0077,Security Guard Force Monthly Retainer,Security Services,4,65564.4,0.18,47206.37,309463.97,0
+LIT-00253,INV-2026-0077,Server Rack Chassis 42U,IT Hardware & Servers,9,76273.75,0.18,123563.47,810027.22,0
+LIT-00254,INV-2026-0077,Ergonomic Mesh Office Chair,Office Supplies & Furniture,1,8617.25,0.18,1551.11,10168.36,0
+LIT-00255,INV-2026-0077,Cisco Core Switch 24-Port,IT Hardware & Servers,12,44609.86,0.18,96357.3,631675.62,0
+LIT-00256,INV-2026-0077,Logistics Freight Container Shipment,Logistics & Freight,13,40322.29,0.05,26209.49,550399.26,0
+LIT-00257,INV-2026-0078,Logistics Freight Container Shipment,Logistics & Freight,13,42632.26,0.05,27710.97,581930.35,0
+LIT-00258,INV-2026-0078,Modular Workstation Desk,Office Supplies & Furniture,11,15713.87,0.18,31113.46,203966.03,0
+LIT-00259,INV-2026-0078,Server Rack Chassis 42U,IT Hardware & Servers,2,78059.53,0.18,28101.43,184220.49,0
+LIT-00260,INV-2026-0078,Corporate Legal Due Diligence,Consulting & Legal,9,120889.6,0.18,195841.15,1283847.55,0
+LIT-00261,INV-2026-0079,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,14,6460.17,0.12,10853.09,101295.47,0
+LIT-00262,INV-2026-0079,Heavy Pallet Hydraulic Jack,Industrial Machinery,3,28806.29,0.18,15555.4,101974.27,0
+LIT-00263,INV-2026-0080,Cisco Core Switch 24-Port,IT Hardware & Servers,6,46928.05,0.18,50682.29,332250.59,0
+LIT-00264,INV-2026-0080,Modular Workstation Desk,Office Supplies & Furniture,11,15926.96,0.18,31535.38,206731.94,0
+LIT-00265,INV-2026-0080,Interstate Fleet Haulage Service,Logistics & Freight,15,35085.11,0.05,26313.83,552590.48,0
+LIT-00266,INV-2026-0080,Dell PowerEdge R750 Server,IT Hardware & Servers,8,191494.61,0.18,275752.24,1807709.12,0
+LIT-00267,INV-2026-0080,Modular Workstation Desk,Office Supplies & Furniture,2,15508.5,0.18,5583.06,36600.06,0
+LIT-00268,INV-2026-0081,Industrial Coating Resin 50L Drum,Industrial Machinery,11,14202.79,0.05,7811.53,164042.22,1
+LIT-00269,INV-2026-0081,Copper Armoured Cable 100m Roll,Industrial Machinery,7,19770.52,0.18,24910.86,163304.5,0
+LIT-00270,INV-2026-0081,Copper Armoured Cable 100m Roll,Industrial Machinery,6,19359.02,0.18,20907.74,137061.86,0
+LIT-00271,INV-2026-0082,Industrial Diesel Generator 25kVA,Industrial Machinery,1,333946.41,0.28,93504.99,427451.4,0
+LIT-00272,INV-2026-0082,Modular Workstation Desk,Office Supplies & Furniture,8,15813.72,0.18,22771.76,149281.52,0
+LIT-00273,INV-2026-0082,Industrial Coating Resin 50L Drum,Industrial Machinery,6,14162.14,0.18,15295.11,100267.95,0
+LIT-00274,INV-2026-0082,Modular Workstation Desk,Office Supplies & Furniture,10,16131.94,0.18,29037.49,190356.89,0
+LIT-00275,INV-2026-0083,Dell PowerEdge R750 Server,IT Hardware & Servers,9,183250.21,0.18,296865.34,1946117.23,0
+LIT-00276,INV-2026-0083,Industrial Coating Resin 50L Drum,Industrial Machinery,2,14225.92,0.18,5121.33,33573.17,0
+LIT-00277,INV-2026-0083,Industrial Diesel Generator 25kVA,Industrial Machinery,4,323668.01,0.28,362508.17,1657180.21,0
+LIT-00278,INV-2026-0084,Industrial Coating Resin 50L Drum,Industrial Machinery,13,14133.82,0.18,33073.14,216812.8,0
+LIT-00279,INV-2026-0084,Facility HVAC Annual Maintenance,Facility Management,2,98544.78,0.18,35476.12,232565.68,0
+LIT-00280,INV-2026-0085,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,10,6203.4,0.28,17369.52,79403.52,1
+LIT-00281,INV-2026-0085,Copper Armoured Cable 100m Roll,Industrial Machinery,2,19539.67,0.18,7034.28,46113.62,0
+LIT-00282,INV-2026-0085,Corporate Legal Due Diligence,Consulting & Legal,10,116464.82,0.18,209636.68,1374284.88,0
+LIT-00283,INV-2026-0085,Logistics Freight Container Shipment,Logistics & Freight,9,40281.95,0.05,18126.88,380664.43,0
+LIT-00284,INV-2026-0085,Logistics Freight Container Shipment,Logistics & Freight,8,43296.51,0.05,17318.6,363690.68,0
+LIT-00285,INV-2026-0086,Corporate Legal Due Diligence,Consulting & Legal,12,123682.98,0.18,267155.24,1753632.2,1
+LIT-00286,INV-2026-0086,Server Rack Chassis 42U,IT Hardware & Servers,10,76843.53,0.18,138318.35,906753.65,0
+LIT-00287,INV-2026-0086,Cisco Core Switch 24-Port,IT Hardware & Servers,6,42953.8,0.18,46390.1,304112.9,0
+LIT-00288,INV-2026-0086,Security Guard Force Monthly Retainer,Security Services,1,62164.44,0.18,11189.6,73354.04,0
+LIT-00289,INV-2026-0087,Industrial Coating Resin 50L Drum,Industrial Machinery,11,13971.37,0.18,27663.31,181348.38,0
+LIT-00290,INV-2026-0087,Security Guard Force Monthly Retainer,Security Services,7,65948.23,0.18,83094.77,544732.38,0
+LIT-00291,INV-2026-0088,Copper Armoured Cable 100m Roll,Industrial Machinery,11,19576.64,0.05,10767.15,226110.19,1
+LIT-00292,INV-2026-0088,Interstate Fleet Haulage Service,Logistics & Freight,3,34625.71,0.05,5193.86,109070.99,0
+LIT-00293,INV-2026-0088,Security Guard Force Monthly Retainer,Security Services,14,68111.71,0.18,171641.51,1125205.45,0
+LIT-00294,INV-2026-0088,Server Rack Chassis 42U,IT Hardware & Servers,5,76921.35,0.18,69229.21,453835.96,0
+LIT-00295,INV-2026-0088,Logistics Freight Container Shipment,Logistics & Freight,9,42728.7,0.05,19227.92,403786.22,0
+LIT-00296,INV-2026-0088,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,28089.41,0.18,70785.31,464037.05,0
+LIT-00297,INV-2026-0089,Industrial Coating Resin 50L Drum,Industrial Machinery,13,13938.62,0.18,32616.37,213818.43,0
+LIT-00298,INV-2026-0089,Corporate Legal Due Diligence,Consulting & Legal,13,119030.89,0.18,278532.28,1825933.85,0
+LIT-00299,INV-2026-0089,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,1,6437.93,0.12,772.55,7210.48,0
+LIT-00300,INV-2026-0089,Ergonomic Mesh Office Chair,Office Supplies & Furniture,2,8250.17,0.18,2970.06,19470.4,0
+LIT-00301,INV-2026-0089,Facility HVAC Annual Maintenance,Facility Management,10,90568.97,0.18,163024.15,1068713.85,0
+LIT-00302,INV-2026-0089,Corporate Legal Due Diligence,Consulting & Legal,1,122439.44,0.18,22039.1,144478.54,0
+LIT-00303,INV-2026-0090,Dell PowerEdge R750 Server,IT Hardware & Servers,5,185072.07,0.18,166564.86,1091925.21,0
+LIT-00304,INV-2026-0091,Copper Armoured Cable 100m Roll,Industrial Machinery,5,19150.3,0.18,17235.27,112986.77,0
+LIT-00305,INV-2026-0091,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,11,5978.82,0.12,7892.04,73659.06,0
+LIT-00306,INV-2026-0091,Interstate Fleet Haulage Service,Logistics & Freight,5,34023.65,0.05,8505.91,178624.16,0
+LIT-00307,INV-2026-0091,Modular Workstation Desk,Office Supplies & Furniture,10,15297.53,0.18,27535.55,180510.85,0
+LIT-00308,INV-2026-0091,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6345.83,0.12,2284.5,21321.99,0
+LIT-00309,INV-2026-0091,Corporate Legal Due Diligence,Consulting & Legal,9,122145.0,0.18,197874.9,1297179.9,0
+LIT-00310,INV-2026-0092,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,27017.81,0.18,34042.44,223167.11,0
+LIT-00311,INV-2026-0092,Dell PowerEdge R750 Server,IT Hardware & Servers,8,189706.7,0.18,273177.65,1790831.25,0
+LIT-00312,INV-2026-0092,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8796.94,0.18,7917.25,51901.95,0
+LIT-00313,INV-2026-0092,Copper Armoured Cable 100m Roll,Industrial Machinery,13,19904.77,0.18,46577.16,305339.17,0
+LIT-00314,INV-2026-0093,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8291.75,0.18,8955.09,58705.59,0
+LIT-00315,INV-2026-0093,Corporate Legal Due Diligence,Consulting & Legal,8,114948.85,0.18,165526.34,1085117.14,0
+LIT-00316,INV-2026-0093,Copper Armoured Cable 100m Roll,Industrial Machinery,9,19248.6,0.18,31182.73,204420.13,0
+LIT-00317,INV-2026-0093,Security Guard Force Monthly Retainer,Security Services,1,67141.14,0.18,12085.41,79226.55,0
+LIT-00318,INV-2026-0094,Security Guard Force Monthly Retainer,Security Services,4,66114.43,0.18,47602.39,312060.11,0
+LIT-00319,INV-2026-0094,Logistics Freight Container Shipment,Logistics & Freight,15,40777.33,0.05,30583.0,642242.95,0
+LIT-00320,INV-2026-0094,Industrial Diesel Generator 25kVA,Industrial Machinery,15,313702.02,0.28,1317548.48,6023078.78,0
+LIT-00321,INV-2026-0094,Server Rack Chassis 42U,IT Hardware & Servers,4,72838.56,0.18,52443.76,343798.0,0
+LIT-00322,INV-2026-0094,Security Guard Force Monthly Retainer,Security Services,13,62512.56,0.18,146279.39,958942.67,0
+LIT-00323,INV-2026-0095,Industrial Diesel Generator 25kVA,Industrial Machinery,7,328816.44,0.28,644480.22,2946195.3,0
+LIT-00324,INV-2026-0095,Logistics Freight Container Shipment,Logistics & Freight,6,42141.33,0.05,12642.4,265490.38,0
+LIT-00325,INV-2026-0095,Modular Workstation Desk,Office Supplies & Furniture,9,15618.5,0.18,25301.97,165868.47,0
+LIT-00326,INV-2026-0095,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,2,6198.31,0.12,1487.59,13884.21,0
+LIT-00327,INV-2026-0095,Industrial Coating Resin 50L Drum,Industrial Machinery,8,15197.91,0.18,21884.99,143468.27,0
+LIT-00328,INV-2026-0096,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18956.48,0.18,10236.5,67105.94,0
+LIT-00329,INV-2026-0096,Server Rack Chassis 42U,IT Hardware & Servers,15,73205.81,0.18,197655.69,1295742.84,0
+LIT-00330,INV-2026-0096,Facility HVAC Annual Maintenance,Facility Management,7,95751.86,0.18,120647.34,790910.36,0
+LIT-00331,INV-2026-0096,Modular Workstation Desk,Office Supplies & Furniture,6,15443.86,0.18,16679.37,109342.53,0
+LIT-00332,INV-2026-0096,Ergonomic Mesh Office Chair,Office Supplies & Furniture,14,8397.86,0.18,21162.61,138732.65,0
+LIT-00333,INV-2026-0097,Security Guard Force Monthly Retainer,Security Services,8,65921.01,0.18,94926.25,622294.33,0
+LIT-00334,INV-2026-0097,Logistics Freight Container Shipment,Logistics & Freight,13,40606.58,0.05,26394.28,554279.82,0
+LIT-00335,INV-2026-0097,Industrial Diesel Generator 25kVA,Industrial Machinery,12,309416.5,0.28,1039639.44,4752637.44,0
+LIT-00336,INV-2026-0097,Interstate Fleet Haulage Service,Logistics & Freight,15,34959.11,0.05,26219.33,550605.98,0
+LIT-00337,INV-2026-0098,Copper Armoured Cable 100m Roll,Industrial Machinery,13,19828.02,0.18,46397.57,304161.83,0
+LIT-00338,INV-2026-0099,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8504.87,0.18,9185.26,60214.48,0
+LIT-00339,INV-2026-0100,Interstate Fleet Haulage Service,Logistics & Freight,1,35180.75,0.05,1759.04,36939.79,0
+LIT-00340,INV-2026-0101,Corporate Legal Due Diligence,Consulting & Legal,15,119166.88,0.18,321750.58,2109253.78,0
+LIT-00341,INV-2026-0101,Dell PowerEdge R750 Server,IT Hardware & Servers,2,177729.8,0.18,63982.73,419442.33,0
+LIT-00342,INV-2026-0101,Interstate Fleet Haulage Service,Logistics & Freight,4,33771.14,0.05,6754.23,141838.79,0
+LIT-00343,INV-2026-0101,Facility HVAC Annual Maintenance,Facility Management,14,95251.33,0.18,240033.35,1573551.97,0
+LIT-00344,INV-2026-0101,Industrial Diesel Generator 25kVA,Industrial Machinery,7,312554.39,0.28,612606.6,2800487.33,0
+LIT-00345,INV-2026-0101,Cisco Core Switch 24-Port,IT Hardware & Servers,7,44428.73,0.18,55980.2,366981.31,0
+LIT-00346,INV-2026-0102,Industrial Coating Resin 50L Drum,Industrial Machinery,7,13820.94,0.18,17414.38,114160.96,0
+LIT-00347,INV-2026-0102,Heavy Pallet Hydraulic Jack,Industrial Machinery,8,27656.07,0.18,39824.74,261073.3,0
+LIT-00348,INV-2026-0102,Server Rack Chassis 42U,IT Hardware & Servers,12,76025.61,0.18,164215.32,1076522.64,0
+LIT-00349,INV-2026-0102,Dell PowerEdge R750 Server,IT Hardware & Servers,14,177279.69,0.18,446744.82,2928660.48,0
+LIT-00350,INV-2026-0102,Heavy Pallet Hydraulic Jack,Industrial Machinery,6,28405.74,0.18,30678.2,201112.64,0
+LIT-00351,INV-2026-0102,Facility HVAC Annual Maintenance,Facility Management,2,99534.63,0.18,35832.47,234901.73,0
+LIT-00352,INV-2026-0103,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,5936.1,0.12,10684.98,99726.48,0
+LIT-00353,INV-2026-0104,Server Rack Chassis 42U,IT Hardware & Servers,10,78461.02,0.18,141229.84,925840.04,0
+LIT-00354,INV-2026-0104,Dell PowerEdge R750 Server,IT Hardware & Servers,12,189666.71,0.18,409680.09,2685680.61,0
+LIT-00355,INV-2026-0104,Copper Armoured Cable 100m Roll,Industrial Machinery,2,19301.68,0.18,6948.6,45551.96,0
+LIT-00356,INV-2026-0105,Dell PowerEdge R750 Server,IT Hardware & Servers,12,190374.21,0.18,411208.29,2695698.81,0
+LIT-00357,INV-2026-0105,Security Guard Force Monthly Retainer,Security Services,12,62259.78,0.18,134481.12,881598.48,0
+LIT-00358,INV-2026-0105,Industrial Diesel Generator 25kVA,Industrial Machinery,7,305718.29,0.28,599207.85,2739235.88,0
+LIT-00359,INV-2026-0105,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8787.87,0.18,9490.9,62218.12,0
+LIT-00360,INV-2026-0105,Facility HVAC Annual Maintenance,Facility Management,10,97555.55,0.18,175599.99,1151155.49,0
+LIT-00361,INV-2026-0105,Heavy Pallet Hydraulic Jack,Industrial Machinery,6,29312.98,0.18,31658.02,207535.9,0
+LIT-00362,INV-2026-0106,Heavy Pallet Hydraulic Jack,Industrial Machinery,10,27120.07,0.18,48816.13,320016.83,0
+LIT-00363,INV-2026-0106,Corporate Legal Due Diligence,Consulting & Legal,13,118560.87,0.18,277432.44,1818723.75,0
+LIT-00364,INV-2026-0106,Facility HVAC Annual Maintenance,Facility Management,4,93056.11,0.18,67000.4,439224.84,0
+LIT-00365,INV-2026-0106,Security Guard Force Monthly Retainer,Security Services,5,62227.79,0.18,56005.01,367143.96,0
+LIT-00366,INV-2026-0107,Cisco Core Switch 24-Port,IT Hardware & Servers,5,42773.38,0.18,38496.04,252362.94,0
+LIT-00367,INV-2026-0108,Interstate Fleet Haulage Service,Logistics & Freight,7,35191.59,0.05,12317.06,258658.19,0
+LIT-00368,INV-2026-0108,Cisco Core Switch 24-Port,IT Hardware & Servers,6,42868.18,0.18,46297.63,303506.71,0
+LIT-00369,INV-2026-0108,Interstate Fleet Haulage Service,Logistics & Freight,10,33575.72,0.05,16787.86,352545.06,0
+LIT-00370,INV-2026-0108,Industrial Coating Resin 50L Drum,Industrial Machinery,7,14245.42,0.18,17949.23,117667.17,0
+LIT-00371,INV-2026-0109,Corporate Legal Due Diligence,Consulting & Legal,3,118568.78,0.18,64027.14,419733.48,0
+LIT-00372,INV-2026-0109,Modular Workstation Desk,Office Supplies & Furniture,8,15681.81,0.18,22581.81,148036.29,0
+LIT-00373,INV-2026-0110,Industrial Diesel Generator 25kVA,Industrial Machinery,4,312054.39,0.28,349500.92,1597718.48,0
+LIT-00374,INV-2026-0111,Server Rack Chassis 42U,IT Hardware & Servers,6,78366.18,0.18,84635.47,554832.55,0
+LIT-00375,INV-2026-0111,Copper Armoured Cable 100m Roll,Industrial Machinery,6,19167.61,0.18,20701.02,141971.43,1
+LIT-00376,INV-2026-0111,Corporate Legal Due Diligence,Consulting & Legal,3,125690.7,0.18,67872.98,444945.08,0
+LIT-00377,INV-2026-0112,Industrial Diesel Generator 25kVA,Industrial Machinery,12,313326.34,0.28,1052776.5,4812692.58,0
+LIT-00378,INV-2026-0112,Corporate Legal Due Diligence,Consulting & Legal,10,119892.09,0.18,215805.76,1414726.66,0
+LIT-00379,INV-2026-0112,Industrial Coating Resin 50L Drum,Industrial Machinery,7,14126.52,0.18,17799.42,116685.06,0
+LIT-00380,INV-2026-0112,Modular Workstation Desk,Office Supplies & Furniture,7,16506.39,0.18,20798.05,136342.78,0
+LIT-00381,INV-2026-0113,Server Rack Chassis 42U,IT Hardware & Servers,8,78397.53,0.18,112892.44,740072.68,0
+LIT-00382,INV-2026-0113,Security Guard Force Monthly Retainer,Security Services,13,63112.71,0.18,147683.74,968148.97,0
+LIT-00383,INV-2026-0113,Modular Workstation Desk,Office Supplies & Furniture,2,16530.05,0.18,5950.82,39010.92,0
+LIT-00384,INV-2026-0113,Copper Armoured Cable 100m Roll,Industrial Machinery,13,20178.19,0.18,47216.96,309533.43,0
+LIT-00385,INV-2026-0113,Heavy Pallet Hydraulic Jack,Industrial Machinery,3,28484.34,0.18,15381.54,100834.56,0
+LIT-00386,INV-2026-0114,Logistics Freight Container Shipment,Logistics & Freight,8,44060.94,0.05,17624.38,370111.9,0
+LIT-00387,INV-2026-0115,Security Guard Force Monthly Retainer,Security Services,9,67570.76,0.18,109464.63,717601.47,0
+LIT-00388,INV-2026-0115,Facility HVAC Annual Maintenance,Facility Management,2,96312.71,0.18,34672.58,227298.0,0
+LIT-00389,INV-2026-0115,Cisco Core Switch 24-Port,IT Hardware & Servers,11,46210.29,0.18,91496.37,599809.56,0
+LIT-00390,INV-2026-0116,Corporate Legal Due Diligence,Consulting & Legal,13,118795.41,0.18,277981.26,1822321.59,0
+LIT-00391,INV-2026-0116,Industrial Diesel Generator 25kVA,Industrial Machinery,7,334902.94,0.28,656409.76,3000730.34,0
+LIT-00392,INV-2026-0116,Cisco Core Switch 24-Port,IT Hardware & Servers,5,42797.46,0.18,38517.71,252505.01,0
+LIT-00393,INV-2026-0116,Ergonomic Mesh Office Chair,Office Supplies & Furniture,9,8509.07,0.18,13784.69,90366.32,0
+LIT-00394,INV-2026-0116,Interstate Fleet Haulage Service,Logistics & Freight,10,35281.81,0.05,17640.9,370459.0,0
+LIT-00395,INV-2026-0116,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8453.91,0.18,10651.93,69829.3,0
+LIT-00396,INV-2026-0117,Cisco Core Switch 24-Port,IT Hardware & Servers,15,44079.44,0.18,119014.49,780206.09,0
+LIT-00397,INV-2026-0117,Cisco Core Switch 24-Port,IT Hardware & Servers,12,43272.31,0.18,93468.19,612735.91,0
+LIT-00398,INV-2026-0117,Dell PowerEdge R750 Server,IT Hardware & Servers,6,182194.08,0.18,196769.61,1289934.09,0
+LIT-00399,INV-2026-0117,Logistics Freight Container Shipment,Logistics & Freight,9,43193.93,0.05,19437.27,408182.64,0
+LIT-00400,INV-2026-0118,Industrial Coating Resin 50L Drum,Industrial Machinery,1,14805.63,0.18,2665.01,17470.64,0
+LIT-00401,INV-2026-0119,Interstate Fleet Haulage Service,Logistics & Freight,8,34742.29,0.05,13896.92,291835.24,0
+LIT-00402,INV-2026-0119,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8753.09,0.18,17331.12,113615.11,0
+LIT-00403,INV-2026-0119,Dell PowerEdge R750 Server,IT Hardware & Servers,11,179198.16,0.18,354812.36,2325992.12,0
+LIT-00404,INV-2026-0120,Server Rack Chassis 42U,IT Hardware & Servers,4,76535.52,0.18,55105.57,361247.65,0
+LIT-00405,INV-2026-0120,Modular Workstation Desk,Office Supplies & Furniture,13,16403.72,0.18,38384.7,251633.06,0
+LIT-00406,INV-2026-0120,Industrial Coating Resin 50L Drum,Industrial Machinery,2,13865.72,0.18,4991.66,32723.1,0
+LIT-00407,INV-2026-0120,Industrial Coating Resin 50L Drum,Industrial Machinery,3,15039.37,0.18,8121.26,53239.37,0
+LIT-00408,INV-2026-0121,Corporate Legal Due Diligence,Consulting & Legal,7,117760.85,0.18,148378.67,972704.62,0
+LIT-00409,INV-2026-0121,Facility HVAC Annual Maintenance,Facility Management,2,93979.17,0.18,33832.5,221790.84,0
+LIT-00410,INV-2026-0121,Industrial Diesel Generator 25kVA,Industrial Machinery,8,315263.52,0.28,706190.28,3228298.44,0
+LIT-00411,INV-2026-0121,Facility HVAC Annual Maintenance,Facility Management,11,91889.01,0.18,181940.24,1192719.35,0
+LIT-00412,INV-2026-0121,Security Guard Force Monthly Retainer,Security Services,15,66953.99,0.18,180775.77,1185085.62,0
+LIT-00413,INV-2026-0122,Dell PowerEdge R750 Server,IT Hardware & Servers,3,182656.16,0.18,98634.33,646602.81,0
+LIT-00414,INV-2026-0123,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,9,6509.94,0.12,7030.74,65620.2,0
+LIT-00415,INV-2026-0123,Dell PowerEdge R750 Server,IT Hardware & Servers,3,184808.38,0.18,99796.53,654221.67,0
+LIT-00416,INV-2026-0123,Dell PowerEdge R750 Server,IT Hardware & Servers,8,181569.73,0.18,261460.41,1714018.25,0
+LIT-00417,INV-2026-0123,Facility HVAC Annual Maintenance,Facility Management,6,90759.31,0.18,98020.05,642575.91,0
+LIT-00418,INV-2026-0123,Server Rack Chassis 42U,IT Hardware & Servers,4,74884.57,0.18,53916.89,353455.17,0
+LIT-00419,INV-2026-0123,Copper Armoured Cable 100m Roll,Industrial Machinery,9,19273.69,0.18,31223.38,204686.59,0
+LIT-00420,INV-2026-0124,Logistics Freight Container Shipment,Logistics & Freight,10,40602.46,0.05,20301.23,426325.83,0
+LIT-00421,INV-2026-0124,Server Rack Chassis 42U,IT Hardware & Servers,4,77219.11,0.18,55597.76,364474.2,0
+LIT-00422,INV-2026-0124,Modular Workstation Desk,Office Supplies & Furniture,4,15252.31,0.18,10981.66,71990.9,0
+LIT-00423,INV-2026-0124,Interstate Fleet Haulage Service,Logistics & Freight,13,34260.35,0.05,22269.23,467653.78,0
+LIT-00424,INV-2026-0125,Modular Workstation Desk,Office Supplies & Furniture,14,16440.18,0.18,41429.25,271591.77,0
+LIT-00425,INV-2026-0126,Industrial Coating Resin 50L Drum,Industrial Machinery,14,14133.92,0.18,35617.48,233492.36,0
+LIT-00426,INV-2026-0126,Server Rack Chassis 42U,IT Hardware & Servers,6,74622.99,0.18,80592.83,528330.77,0
+LIT-00427,INV-2026-0126,Copper Armoured Cable 100m Roll,Industrial Machinery,8,20117.62,0.18,28969.37,189910.33,0
+LIT-00428,INV-2026-0126,Copper Armoured Cable 100m Roll,Industrial Machinery,13,20463.22,0.18,47883.93,313905.79,0
+LIT-00429,INV-2026-0126,Industrial Coating Resin 50L Drum,Industrial Machinery,13,14118.57,0.18,33037.45,216578.86,0
+LIT-00430,INV-2026-0126,Security Guard Force Monthly Retainer,Security Services,6,65571.51,0.18,70817.23,464246.29,0
+LIT-00431,INV-2026-0127,Copper Armoured Cable 100m Roll,Industrial Machinery,1,18928.54,0.18,3407.14,22335.68,0
+LIT-00432,INV-2026-0127,Facility HVAC Annual Maintenance,Facility Management,5,93582.75,0.18,84224.47,552138.22,0
+LIT-00433,INV-2026-0128,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,2,6311.17,0.12,1514.68,14137.02,0
+LIT-00434,INV-2026-0128,Dell PowerEdge R750 Server,IT Hardware & Servers,13,193561.28,0.18,452933.4,2969230.04,0
+LIT-00435,INV-2026-0128,Heavy Pallet Hydraulic Jack,Industrial Machinery,5,29172.55,0.18,26255.29,172118.04,0
+LIT-00436,INV-2026-0128,Copper Armoured Cable 100m Roll,Industrial Machinery,12,19804.0,0.18,42776.64,280424.64,0
+LIT-00437,INV-2026-0128,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18783.75,0.18,10143.23,66494.48,0
+LIT-00438,INV-2026-0129,Modular Workstation Desk,Office Supplies & Furniture,7,16204.5,0.18,20417.67,138784.56000000003,1
+LIT-00439,INV-2026-0129,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6366.71,0.12,5348.04,49915.01,0
+LIT-00440,INV-2026-0129,Interstate Fleet Haulage Service,Logistics & Freight,12,35874.31,0.05,21524.59,452016.31,0
+LIT-00441,INV-2026-0129,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,8,6433.94,0.12,6176.58,57648.1,0
+LIT-00442,INV-2026-0129,Logistics Freight Container Shipment,Logistics & Freight,1,41274.61,0.05,2063.73,43338.34,0
+LIT-00443,INV-2026-0129,Copper Armoured Cable 100m Roll,Industrial Machinery,12,20034.56,0.18,43274.65,283689.37,0
+LIT-00444,INV-2026-0130,Ergonomic Mesh Office Chair,Office Supplies & Furniture,14,8897.91,0.18,22422.73,146993.47,0
+LIT-00445,INV-2026-0130,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8495.51,0.18,9175.15,60148.21,0
+LIT-00446,INV-2026-0130,Copper Armoured Cable 100m Roll,Industrial Machinery,9,19078.01,0.18,30906.38,202608.47,0
+LIT-00447,INV-2026-0130,Facility HVAC Annual Maintenance,Facility Management,14,91490.65,0.18,230556.44,1511425.54,0
+LIT-00448,INV-2026-0131,Server Rack Chassis 42U,IT Hardware & Servers,14,72181.78,0.18,181898.09,1196138.64,1
+LIT-00449,INV-2026-0131,Heavy Pallet Hydraulic Jack,Industrial Machinery,12,27166.49,0.18,58679.62,384677.5,0
+LIT-00450,INV-2026-0131,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,11,5971.79,0.12,7882.76,73572.45,0
+LIT-00451,INV-2026-0131,Modular Workstation Desk,Office Supplies & Furniture,15,15454.36,0.18,41726.77,273542.17,0
+LIT-00452,INV-2026-0132,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,1,6292.32,0.12,755.08,9685.96,1
+LIT-00453,INV-2026-0132,Security Guard Force Monthly Retainer,Security Services,7,66659.01,0.18,83990.35,550603.42,0
+LIT-00454,INV-2026-0132,Corporate Legal Due Diligence,Consulting & Legal,2,115094.39,0.18,41433.98,271622.76,0
+LIT-00455,INV-2026-0132,Server Rack Chassis 42U,IT Hardware & Servers,2,72850.66,0.18,26226.24,171927.56,0
+LIT-00456,INV-2026-0132,Dell PowerEdge R750 Server,IT Hardware & Servers,9,186733.07,0.18,302507.57,1983105.2,0
+LIT-00457,INV-2026-0132,Corporate Legal Due Diligence,Consulting & Legal,1,119340.8,0.18,21481.34,140822.14,0
+LIT-00458,INV-2026-0133,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,26850.13,0.18,62829.3,411880.99,0
+LIT-00459,INV-2026-0133,Cisco Core Switch 24-Port,IT Hardware & Servers,6,43214.41,0.18,46671.56,305958.02,0
+LIT-00460,INV-2026-0134,Facility HVAC Annual Maintenance,Facility Management,8,96425.19,0.18,138852.27,910253.79,0
+LIT-00461,INV-2026-0135,Cisco Core Switch 24-Port,IT Hardware & Servers,3,46784.67,0.18,25263.72,165617.73,0
+LIT-00462,INV-2026-0135,Industrial Coating Resin 50L Drum,Industrial Machinery,12,13953.58,0.18,30139.73,197582.69,0
+LIT-00463,INV-2026-0136,Ergonomic Mesh Office Chair,Office Supplies & Furniture,10,8545.39,0.05,4272.69,89726.59,1
+LIT-00464,INV-2026-0137,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8710.67,0.18,7839.6,51392.95,0
+LIT-00465,INV-2026-0137,Corporate Legal Due Diligence,Consulting & Legal,15,114654.83,0.18,309568.04,2029390.49,0
+LIT-00466,INV-2026-0137,Industrial Coating Resin 50L Drum,Industrial Machinery,8,15159.27,0.18,21829.35,143103.51,0
+LIT-00467,INV-2026-0137,Heavy Pallet Hydraulic Jack,Industrial Machinery,8,26915.68,0.18,38758.58,254084.02,0
+LIT-00468,INV-2026-0137,Corporate Legal Due Diligence,Consulting & Legal,9,121127.16,0.18,196226.0,1286370.44,0
+LIT-00469,INV-2026-0138,Heavy Pallet Hydraulic Jack,Industrial Machinery,11,27623.15,0.18,54693.84,358548.49,0
+LIT-00470,INV-2026-0138,Dell PowerEdge R750 Server,IT Hardware & Servers,13,189860.43,0.18,444273.41,2912459.0,0
+LIT-00471,INV-2026-0138,Cisco Core Switch 24-Port,IT Hardware & Servers,2,42825.1,0.18,15417.04,101067.24,0
+LIT-00472,INV-2026-0138,Server Rack Chassis 42U,IT Hardware & Servers,1,73216.39,0.18,13178.95,86395.34,0
+LIT-00473,INV-2026-0138,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,5927.49,0.12,9246.88,86304.25,0
+LIT-00474,INV-2026-0139,Corporate Legal Due Diligence,Consulting & Legal,10,120438.78,0.18,216789.8,1421177.6,0
+LIT-00475,INV-2026-0140,Interstate Fleet Haulage Service,Logistics & Freight,10,34393.63,0.05,17196.81,361133.11,0
+LIT-00476,INV-2026-0140,Corporate Legal Due Diligence,Consulting & Legal,11,123158.69,0.18,243854.21,1598599.8,0
+LIT-00477,INV-2026-0141,Cisco Core Switch 24-Port,IT Hardware & Servers,10,44790.17,0.18,80622.31,528524.01,0
+LIT-00478,INV-2026-0141,Server Rack Chassis 42U,IT Hardware & Servers,12,73569.68,0.18,158910.51,1041746.67,0
+LIT-00479,INV-2026-0141,Corporate Legal Due Diligence,Consulting & Legal,2,122887.9,0.18,44239.64,290015.44,0
+LIT-00480,INV-2026-0141,Server Rack Chassis 42U,IT Hardware & Servers,12,76559.25,0.18,165367.98,1084078.98,0
+LIT-00481,INV-2026-0142,Modular Workstation Desk,Office Supplies & Furniture,3,15467.14,0.18,8352.26,54753.68,0
+LIT-00482,INV-2026-0142,Security Guard Force Monthly Retainer,Security Services,5,66827.31,0.18,60144.58,394281.13,0
+LIT-00483,INV-2026-0142,Security Guard Force Monthly Retainer,Security Services,13,67511.7,0.18,157977.38,1035629.48,0
+LIT-00484,INV-2026-0142,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,5908.2,0.12,9216.79,86023.39,0
+LIT-00485,INV-2026-0142,Heavy Pallet Hydraulic Jack,Industrial Machinery,2,27361.55,0.18,9850.16,64573.26,0
+LIT-00486,INV-2026-0142,Modular Workstation Desk,Office Supplies & Furniture,10,16339.72,0.18,29411.5,192808.7,0
+LIT-00487,INV-2026-0143,Dell PowerEdge R750 Server,IT Hardware & Servers,5,182552.22,0.18,164297.0,1077058.1,0
+LIT-00488,INV-2026-0143,Corporate Legal Due Diligence,Consulting & Legal,4,122673.34,0.05,24534.67,515228.03,1
+LIT-00489,INV-2026-0143,Copper Armoured Cable 100m Roll,Industrial Machinery,4,20207.71,0.18,14549.55,95380.39,0
+LIT-00490,INV-2026-0143,Server Rack Chassis 42U,IT Hardware & Servers,7,74788.23,0.18,94233.17,617750.78,0
+LIT-00491,INV-2026-0143,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,5983.05,0.12,10769.49,100515.24,0
+LIT-00492,INV-2026-0144,Ergonomic Mesh Office Chair,Office Supplies & Furniture,12,8428.82,0.18,18206.25,119352.09,0
+LIT-00493,INV-2026-0144,Industrial Diesel Generator 25kVA,Industrial Machinery,2,312680.25,0.28,175100.94,800461.44,0
+LIT-00494,INV-2026-0144,Facility HVAC Annual Maintenance,Facility Management,9,93791.68,0.18,151942.52,996067.64,0
+LIT-00495,INV-2026-0145,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6178.36,0.12,3707.02,34598.82,0
+LIT-00496,INV-2026-0146,Modular Workstation Desk,Office Supplies & Furniture,5,16102.09,0.05,4025.52,84535.97,1
+LIT-00497,INV-2026-0146,Industrial Diesel Generator 25kVA,Industrial Machinery,8,322934.11,0.28,723372.41,3306845.29,0
+LIT-00498,INV-2026-0147,Server Rack Chassis 42U,IT Hardware & Servers,6,72997.48,0.18,78837.28,516822.16,0
+LIT-00499,INV-2026-0147,Server Rack Chassis 42U,IT Hardware & Servers,1,78382.43,0.18,14108.84,92491.27,0
+LIT-00500,INV-2026-0147,Security Guard Force Monthly Retainer,Security Services,2,66476.9,0.18,23931.68,164267.29,1
+LIT-00501,INV-2026-0147,Heavy Pallet Hydraulic Jack,Industrial Machinery,1,27977.68,0.18,5035.98,33013.66,0
+LIT-00502,INV-2026-0148,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6414.21,0.12,5387.94,50287.41,0
+LIT-00503,INV-2026-0148,Security Guard Force Monthly Retainer,Security Services,2,62301.87,0.18,22428.67,147032.41,0
+LIT-00504,INV-2026-0149,Modular Workstation Desk,Office Supplies & Furniture,6,15617.59,0.18,16867.0,110572.54,0
+LIT-00505,INV-2026-0149,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6386.51,0.12,9196.57,85834.69,0
+LIT-00506,INV-2026-0150,Dell PowerEdge R750 Server,IT Hardware & Servers,10,190178.83,0.18,342321.89,2245349.79,1
+LIT-00507,INV-2026-0150,Logistics Freight Container Shipment,Logistics & Freight,7,41857.43,0.05,14650.1,307652.11,0
+LIT-00508,INV-2026-0151,Copper Armoured Cable 100m Roll,Industrial Machinery,3,18758.83,0.18,10129.77,66406.26,0
+LIT-00509,INV-2026-0151,Industrial Coating Resin 50L Drum,Industrial Machinery,14,14769.78,0.18,37219.85,243996.77,0
+LIT-00510,INV-2026-0151,Security Guard Force Monthly Retainer,Security Services,1,66279.71,0.18,11930.35,78210.06,0
+LIT-00511,INV-2026-0152,Interstate Fleet Haulage Service,Logistics & Freight,5,33421.33,0.05,8355.33,175461.98,0
+LIT-00512,INV-2026-0152,Modular Workstation Desk,Office Supplies & Furniture,3,16512.14,0.18,8916.56,58452.98,0
+LIT-00513,INV-2026-0152,Server Rack Chassis 42U,IT Hardware & Servers,14,78390.72,0.18,197544.61,1295014.69,0
+LIT-00514,INV-2026-0152,Logistics Freight Container Shipment,Logistics & Freight,9,42235.01,0.05,19005.75,399120.84,0
+LIT-00515,INV-2026-0153,Dell PowerEdge R750 Server,IT Hardware & Servers,7,179415.46,0.18,226063.48,1486883.78,1
+LIT-00516,INV-2026-0153,Corporate Legal Due Diligence,Consulting & Legal,10,115008.47,0.18,207015.25,1357099.95,0
+LIT-00517,INV-2026-0154,Logistics Freight Container Shipment,Logistics & Freight,2,43299.05,0.05,4329.91,90928.01,0
+LIT-00518,INV-2026-0154,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,6415.31,0.12,10007.88,93406.91,0
+LIT-00519,INV-2026-0154,Industrial Diesel Generator 25kVA,Industrial Machinery,8,307920.89,0.28,689742.79,3153109.91,0
+LIT-00520,INV-2026-0154,Server Rack Chassis 42U,IT Hardware & Servers,10,72509.92,0.18,130517.86,855617.06,0
+LIT-00521,INV-2026-0154,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,28900.72,0.18,36414.91,238719.95,0
+LIT-00522,INV-2026-0154,Logistics Freight Container Shipment,Logistics & Freight,11,40023.83,0.05,22013.11,462275.24,0
+LIT-00523,INV-2026-0155,Server Rack Chassis 42U,IT Hardware & Servers,10,75855.8,0.18,136540.44,895098.44,0
+LIT-00524,INV-2026-0155,Ergonomic Mesh Office Chair,Office Supplies & Furniture,8,8625.19,0.18,12420.27,81421.79,0
+LIT-00525,INV-2026-0156,Ergonomic Mesh Office Chair,Office Supplies & Furniture,13,8621.25,0.18,20173.72,132249.97,0
+LIT-00526,INV-2026-0156,Interstate Fleet Haulage Service,Logistics & Freight,13,34122.02,0.05,22179.31,465765.57,0
+LIT-00527,INV-2026-0156,Interstate Fleet Haulage Service,Logistics & Freight,7,36031.96,0.05,12611.19,264834.91,0
+LIT-00528,INV-2026-0156,Industrial Coating Resin 50L Drum,Industrial Machinery,8,14809.39,0.18,21325.52,139800.64,0
+LIT-00529,INV-2026-0157,Server Rack Chassis 42U,IT Hardware & Servers,4,73641.58,0.18,53021.94,347588.26,0
+LIT-00530,INV-2026-0157,Server Rack Chassis 42U,IT Hardware & Servers,13,77968.24,0.18,182445.68,1196032.8,0
+LIT-00531,INV-2026-0158,Dell PowerEdge R750 Server,IT Hardware & Servers,11,177602.49,0.18,351652.93,2305280.32,0
+LIT-00532,INV-2026-0158,Ergonomic Mesh Office Chair,Office Supplies & Furniture,14,8301.55,0.18,20919.91,137141.61,0
+LIT-00533,INV-2026-0159,Dell PowerEdge R750 Server,IT Hardware & Servers,6,180126.2,0.18,194536.3,1275293.5,0
+LIT-00534,INV-2026-0159,Industrial Coating Resin 50L Drum,Industrial Machinery,6,14845.25,0.18,16032.87,105104.37,0
+LIT-00535,INV-2026-0160,Copper Armoured Cable 100m Roll,Industrial Machinery,15,20451.61,0.18,55219.35,361993.5,0
+LIT-00536,INV-2026-0160,Dell PowerEdge R750 Server,IT Hardware & Servers,2,184823.07,0.18,66536.31,440894.09,1
+LIT-00537,INV-2026-0161,Industrial Coating Resin 50L Drum,Industrial Machinery,12,13964.21,0.18,30162.69,197733.21,0
+LIT-00538,INV-2026-0161,Dell PowerEdge R750 Server,IT Hardware & Servers,14,192747.44,0.18,485723.55,3184187.71,0
+LIT-00539,INV-2026-0162,Cisco Core Switch 24-Port,IT Hardware & Servers,11,44431.16,0.18,87973.7,576716.46,0
+LIT-00540,INV-2026-0162,Heavy Pallet Hydraulic Jack,Industrial Machinery,6,28240.85,0.18,30500.12,199945.22,0
+LIT-00541,INV-2026-0162,Modular Workstation Desk,Office Supplies & Furniture,3,15716.17,0.18,8486.73,55635.24,0
+LIT-00542,INV-2026-0163,Interstate Fleet Haulage Service,Logistics & Freight,15,35677.46,0.05,26758.1,561920.0,0
+LIT-00543,INV-2026-0163,Facility HVAC Annual Maintenance,Facility Management,4,97726.42,0.18,70363.02,461268.7,0
+LIT-00544,INV-2026-0163,Corporate Legal Due Diligence,Consulting & Legal,3,121067.4,0.18,65376.4,428578.6,0
+LIT-00545,INV-2026-0163,Heavy Pallet Hydraulic Jack,Industrial Machinery,12,27459.11,0.18,59311.68,388821.0,0
+LIT-00546,INV-2026-0163,Modular Workstation Desk,Office Supplies & Furniture,12,15403.76,0.18,33272.12,218117.24,0
+LIT-00547,INV-2026-0163,Server Rack Chassis 42U,IT Hardware & Servers,10,78365.91,0.18,141058.64,924717.74,0
+LIT-00548,INV-2026-0164,Ergonomic Mesh Office Chair,Office Supplies & Furniture,2,8618.7,0.18,3102.73,20340.13,0
+LIT-00549,INV-2026-0164,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6197.63,0.12,4462.29,41648.07,0
+LIT-00550,INV-2026-0164,Security Guard Force Monthly Retainer,Security Services,6,62255.74,0.18,67236.2,440770.64,0
+LIT-00551,INV-2026-0164,Industrial Diesel Generator 25kVA,Industrial Machinery,15,309372.4,0.28,1299364.08,5939950.08,0
+LIT-00552,INV-2026-0164,Cisco Core Switch 24-Port,IT Hardware & Servers,11,46447.48,0.18,91966.01,602888.29,0
+LIT-00553,INV-2026-0165,Cisco Core Switch 24-Port,IT Hardware & Servers,13,44327.17,0.18,103725.58,679978.79,0
+LIT-00554,INV-2026-0165,Cisco Core Switch 24-Port,IT Hardware & Servers,1,45991.86,0.18,8278.53,54270.39,0
+LIT-00555,INV-2026-0165,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,27827.02,0.18,35062.05,229851.19,0
+LIT-00556,INV-2026-0165,Dell PowerEdge R750 Server,IT Hardware & Servers,8,192114.21,0.18,276644.46,1813558.14,0
+LIT-00557,INV-2026-0165,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,9,6124.8,0.12,6614.78,61737.98,0
+LIT-00558,INV-2026-0165,Heavy Pallet Hydraulic Jack,Industrial Machinery,8,26884.0,0.18,38712.96,253784.96,0
+LIT-00559,INV-2026-0166,Modular Workstation Desk,Office Supplies & Furniture,5,15232.12,0.05,3808.03,79968.63,1
+LIT-00560,INV-2026-0167,Industrial Diesel Generator 25kVA,Industrial Machinery,10,323008.98,0.28,904425.14,4134514.94,0
+LIT-00561,INV-2026-0168,Server Rack Chassis 42U,IT Hardware & Servers,4,72009.43,0.18,51846.79,339884.51,0
+LIT-00562,INV-2026-0168,Ergonomic Mesh Office Chair,Office Supplies & Furniture,9,8422.89,0.18,13645.08,89451.09,0
+LIT-00563,INV-2026-0169,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,28200.96,0.18,71066.42,465879.86,0
+LIT-00564,INV-2026-0170,Corporate Legal Due Diligence,Consulting & Legal,4,121202.59,0.18,87265.86,572076.22,0
+LIT-00565,INV-2026-0170,Cisco Core Switch 24-Port,IT Hardware & Servers,3,42865.81,0.18,23147.54,151744.97,0
+LIT-00566,INV-2026-0170,Corporate Legal Due Diligence,Consulting & Legal,2,117501.74,0.18,42300.63,277304.11,0
+LIT-00567,INV-2026-0170,Logistics Freight Container Shipment,Logistics & Freight,5,43443.83,0.05,10860.96,228080.11,0
+LIT-00568,INV-2026-0170,Industrial Coating Resin 50L Drum,Industrial Machinery,8,14351.33,0.18,20665.92,135476.56,0
+LIT-00569,INV-2026-0170,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,2,6299.84,0.12,1511.96,14111.64,0
+LIT-00570,INV-2026-0171,Modular Workstation Desk,Office Supplies & Furniture,5,15903.58,0.18,14313.22,93831.12,0
+LIT-00571,INV-2026-0172,Industrial Diesel Generator 25kVA,Industrial Machinery,7,329861.77,0.28,646529.07,2955561.46,0
+LIT-00572,INV-2026-0172,Interstate Fleet Haulage Service,Logistics & Freight,7,33463.44,0.05,11712.2,245956.28,0
+LIT-00573,INV-2026-0172,Interstate Fleet Haulage Service,Logistics & Freight,15,35654.74,0.05,26741.06,568233.74,1
+LIT-00574,INV-2026-0172,Logistics Freight Container Shipment,Logistics & Freight,7,41155.18,0.05,14404.31,302490.57,0
+LIT-00575,INV-2026-0172,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,1,6419.44,0.12,770.33,7189.77,0
+LIT-00576,INV-2026-0172,Interstate Fleet Haulage Service,Logistics & Freight,9,35249.27,0.05,15862.17,333105.6,0
+LIT-00577,INV-2026-0173,Dell PowerEdge R750 Server,IT Hardware & Servers,3,193307.64,0.18,104386.13,684309.05,0
+LIT-00578,INV-2026-0173,Ergonomic Mesh Office Chair,Office Supplies & Furniture,3,8762.19,0.18,4731.58,31018.15,0
+LIT-00579,INV-2026-0173,Server Rack Chassis 42U,IT Hardware & Servers,11,74425.31,0.18,147362.11,966040.52,0
+LIT-00580,INV-2026-0173,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,27165.37,0.18,68456.73,448771.91,0
+LIT-00581,INV-2026-0174,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,28145.75,0.18,70927.29,468674.88999999996,1
+LIT-00582,INV-2026-0174,Copper Armoured Cable 100m Roll,Industrial Machinery,12,18549.11,0.18,40066.08,262655.4,0
+LIT-00583,INV-2026-0174,Facility HVAC Annual Maintenance,Facility Management,13,95831.97,0.18,224246.81,1470062.42,0
+LIT-00584,INV-2026-0174,Heavy Pallet Hydraulic Jack,Industrial Machinery,3,26915.05,0.18,14534.13,95279.28,0
+LIT-00585,INV-2026-0174,Dell PowerEdge R750 Server,IT Hardware & Servers,10,186231.99,0.18,335217.58,2197537.48,0
+LIT-00586,INV-2026-0175,Copper Armoured Cable 100m Roll,Industrial Machinery,6,19569.49,0.18,21135.05,138551.99,0
+LIT-00587,INV-2026-0175,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6144.75,0.12,5161.59,48174.84,0
+LIT-00588,INV-2026-0175,Corporate Legal Due Diligence,Consulting & Legal,10,119827.02,0.18,215688.64,1413958.84,0
+LIT-00589,INV-2026-0176,Heavy Pallet Hydraulic Jack,Industrial Machinery,15,26708.59,0.18,72113.19,472742.04,0
+LIT-00590,INV-2026-0176,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,4,6095.53,0.12,2925.85,27307.97,0
+LIT-00591,INV-2026-0176,Server Rack Chassis 42U,IT Hardware & Servers,15,76843.12,0.18,207476.42,1360123.22,0
+LIT-00592,INV-2026-0176,Modular Workstation Desk,Office Supplies & Furniture,1,16635.25,0.18,2994.34,19629.59,0
+LIT-00593,INV-2026-0176,Industrial Diesel Generator 25kVA,Industrial Machinery,5,330156.35,0.28,462218.89,2113000.64,0
+LIT-00594,INV-2026-0176,Modular Workstation Desk,Office Supplies & Furniture,8,15648.55,0.18,22533.91,147722.31,0
+LIT-00595,INV-2026-0177,Industrial Coating Resin 50L Drum,Industrial Machinery,5,14972.44,0.18,13475.2,88337.4,0
+LIT-00596,INV-2026-0177,Security Guard Force Monthly Retainer,Security Services,11,64459.02,0.18,127628.86,836678.08,0
+LIT-00597,INV-2026-0177,Cisco Core Switch 24-Port,IT Hardware & Servers,4,43595.71,0.18,31388.91,205771.75,0
+LIT-00598,INV-2026-0177,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6400.86,0.12,9217.24,86027.56,0
+LIT-00599,INV-2026-0178,Modular Workstation Desk,Office Supplies & Furniture,7,16335.31,0.18,20582.49,134929.66,0
+LIT-00600,INV-2026-0179,Copper Armoured Cable 100m Roll,Industrial Machinery,1,18637.37,0.18,3354.73,21992.1,0
+LIT-00601,INV-2026-0179,Logistics Freight Container Shipment,Logistics & Freight,6,40112.35,0.05,12033.7,252707.8,0
+LIT-00602,INV-2026-0180,Corporate Legal Due Diligence,Consulting & Legal,6,114366.76,0.18,123516.1,809716.66,0
+LIT-00603,INV-2026-0181,Security Guard Force Monthly Retainer,Security Services,2,67150.66,0.18,24174.24,158475.56,0
+LIT-00604,INV-2026-0181,Modular Workstation Desk,Office Supplies & Furniture,1,15243.92,0.18,2743.91,17987.83,0
+LIT-00605,INV-2026-0181,Dell PowerEdge R750 Server,IT Hardware & Servers,13,191545.69,0.18,448216.91,2938310.88,0
+LIT-00606,INV-2026-0182,Interstate Fleet Haulage Service,Logistics & Freight,13,33320.18,0.05,21658.12,454820.46,0
+LIT-00607,INV-2026-0182,Industrial Coating Resin 50L Drum,Industrial Machinery,8,14764.19,0.18,21260.43,139373.95,0
+LIT-00608,INV-2026-0182,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,5972.03,0.12,2149.93,20066.02,0
+LIT-00609,INV-2026-0182,Facility HVAC Annual Maintenance,Facility Management,4,97858.22,0.18,70457.92,461890.8,0
+LIT-00610,INV-2026-0183,Logistics Freight Container Shipment,Logistics & Freight,8,40958.39,0.05,16383.36,344050.48,0
+LIT-00611,INV-2026-0183,Modular Workstation Desk,Office Supplies & Furniture,14,16283.51,0.18,41034.45,269003.59,0
+LIT-00612,INV-2026-0183,Facility HVAC Annual Maintenance,Facility Management,2,94022.95,0.18,33848.26,221894.16,0
+LIT-00613,INV-2026-0184,Modular Workstation Desk,Office Supplies & Furniture,8,16295.06,0.18,23464.89,153825.37,0
+LIT-00614,INV-2026-0184,Cisco Core Switch 24-Port,IT Hardware & Servers,5,44263.28,0.18,39836.95,261153.35,0
+LIT-00615,INV-2026-0184,Corporate Legal Due Diligence,Consulting & Legal,5,117901.64,0.18,106111.48,695619.68,0
+LIT-00616,INV-2026-0185,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,14,5925.2,0.12,9954.34,92907.14,0
+LIT-00617,INV-2026-0185,Industrial Coating Resin 50L Drum,Industrial Machinery,7,14949.54,0.18,18836.42,123483.2,0
+LIT-00618,INV-2026-0186,Heavy Pallet Hydraulic Jack,Industrial Machinery,1,27687.17,0.18,4983.69,32670.86,0
+LIT-00619,INV-2026-0186,Facility HVAC Annual Maintenance,Facility Management,10,96976.66,0.18,174557.99,1144324.59,0
+LIT-00620,INV-2026-0186,Copper Armoured Cable 100m Roll,Industrial Machinery,12,18895.33,0.18,40813.91,267557.87,0
+LIT-00621,INV-2026-0186,Security Guard Force Monthly Retainer,Security Services,9,63195.36,0.18,102376.48,671134.72,0
+LIT-00622,INV-2026-0187,Copper Armoured Cable 100m Roll,Industrial Machinery,9,19807.35,0.18,32087.91,211537.28,1
+LIT-00623,INV-2026-0187,Dell PowerEdge R750 Server,IT Hardware & Servers,12,189457.0,0.18,409227.12,2682711.12,0
+LIT-00624,INV-2026-0188,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8707.58,0.18,7836.82,58082.62,1
+LIT-00625,INV-2026-0188,Industrial Diesel Generator 25kVA,Industrial Machinery,5,312337.9,0.28,437273.06,1998962.56,0
+LIT-00626,INV-2026-0188,Logistics Freight Container Shipment,Logistics & Freight,8,43475.1,0.05,17390.04,365190.84,0
+LIT-00627,INV-2026-0189,Logistics Freight Container Shipment,Logistics & Freight,9,43635.59,0.05,19636.02,412356.33,0
+LIT-00628,INV-2026-0190,Dell PowerEdge R750 Server,IT Hardware & Servers,6,194108.44,0.18,209637.12,1378773.59,1
+LIT-00629,INV-2026-0190,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6501.72,0.12,2340.62,21845.78,0
+LIT-00630,INV-2026-0191,Industrial Diesel Generator 25kVA,Industrial Machinery,1,324303.97,0.28,90805.11,415109.08,0
+LIT-00631,INV-2026-0191,Logistics Freight Container Shipment,Logistics & Freight,13,41048.82,0.05,26681.73,560316.39,0
+LIT-00632,INV-2026-0192,Corporate Legal Due Diligence,Consulting & Legal,7,119152.92,0.18,150132.68,984203.12,0
+LIT-00633,INV-2026-0192,Logistics Freight Container Shipment,Logistics & Freight,1,41509.93,0.05,2075.5,43585.43,0
+LIT-00634,INV-2026-0192,Interstate Fleet Haulage Service,Logistics & Freight,6,33947.95,0.05,10184.39,213872.09,0
+LIT-00635,INV-2026-0192,Server Rack Chassis 42U,IT Hardware & Servers,13,77940.05,0.18,182379.72,1195600.37,0
+LIT-00636,INV-2026-0193,Security Guard Force Monthly Retainer,Security Services,5,67450.4,0.18,60705.36,397957.36,0
+LIT-00637,INV-2026-0193,Dell PowerEdge R750 Server,IT Hardware & Servers,9,177650.1,0.18,287793.16,1886644.06,0
+LIT-00638,INV-2026-0194,Facility HVAC Annual Maintenance,Facility Management,7,95229.12,0.18,119988.69,786592.53,0
+LIT-00639,INV-2026-0194,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6315.8,0.12,2273.69,21221.09,0
+LIT-00640,INV-2026-0194,Industrial Diesel Generator 25kVA,Industrial Machinery,8,335876.45,0.28,752363.25,3439374.85,0
+LIT-00641,INV-2026-0194,Industrial Diesel Generator 25kVA,Industrial Machinery,3,328003.7,0.28,275523.11,1259534.21,0
+LIT-00642,INV-2026-0194,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6459.29,0.12,5425.8,50640.83,0
+LIT-00643,INV-2026-0195,Cisco Core Switch 24-Port,IT Hardware & Servers,11,44399.66,0.18,87911.33,576307.59,0
+LIT-00644,INV-2026-0195,Industrial Coating Resin 50L Drum,Industrial Machinery,15,13829.18,0.18,37338.79,244776.49,0
+LIT-00645,INV-2026-0196,Cisco Core Switch 24-Port,IT Hardware & Servers,1,45691.05,0.18,8224.39,53915.44,0
+LIT-00646,INV-2026-0196,Server Rack Chassis 42U,IT Hardware & Servers,7,76423.12,0.18,96293.13,631254.97,0
+LIT-00647,INV-2026-0196,Logistics Freight Container Shipment,Logistics & Freight,9,41497.07,0.05,18673.68,392147.31,0
+LIT-00648,INV-2026-0196,Modular Workstation Desk,Office Supplies & Furniture,3,15959.03,0.18,8617.88,56494.97,0
+LIT-00649,INV-2026-0196,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8665.91,0.18,17158.5,112483.51,0
+LIT-00650,INV-2026-0196,Server Rack Chassis 42U,IT Hardware & Servers,11,73508.37,0.18,145546.57,954138.64,0
+LIT-00651,INV-2026-0197,Interstate Fleet Haulage Service,Logistics & Freight,2,35765.68,0.05,3576.57,75107.93,0
+LIT-00652,INV-2026-0198,Copper Armoured Cable 100m Roll,Industrial Machinery,4,19545.13,0.18,14072.49,92253.01,0
+LIT-00653,INV-2026-0198,Industrial Diesel Generator 25kVA,Industrial Machinery,5,326509.98,0.28,457113.97,2089663.87,0
+LIT-00654,INV-2026-0198,Dell PowerEdge R750 Server,IT Hardware & Servers,8,176479.01,0.18,254129.77,1665961.85,0
+LIT-00655,INV-2026-0199,Cisco Core Switch 24-Port,IT Hardware & Servers,14,46830.96,0.18,118014.02,773647.46,0
+LIT-00656,INV-2026-0199,Cisco Core Switch 24-Port,IT Hardware & Servers,2,46257.87,0.05,4625.79,97141.53,1
+LIT-00657,INV-2026-0199,Modular Workstation Desk,Office Supplies & Furniture,8,16230.94,0.18,23372.55,153220.07,0
+LIT-00658,INV-2026-0199,Modular Workstation Desk,Office Supplies & Furniture,1,15622.6,0.18,2812.07,18434.67,0
+LIT-00659,INV-2026-0199,Cisco Core Switch 24-Port,IT Hardware & Servers,14,46409.3,0.18,116951.44,766681.64,0
+LIT-00660,INV-2026-0199,Server Rack Chassis 42U,IT Hardware & Servers,6,77641.87,0.18,83853.22,549704.44,0
+LIT-00661,INV-2026-0200,Server Rack Chassis 42U,IT Hardware & Servers,11,77639.99,0.05,42701.99,896741.88,1
+LIT-00662,INV-2026-0201,Dell PowerEdge R750 Server,IT Hardware & Servers,7,177855.89,0.18,224098.42,1469089.65,0
+LIT-00663,INV-2026-0201,Logistics Freight Container Shipment,Logistics & Freight,7,41041.7,0.05,14364.59,301656.49,0
+LIT-00664,INV-2026-0201,Security Guard Force Monthly Retainer,Security Services,13,67279.37,0.18,157433.73,1032065.54,0
+LIT-00665,INV-2026-0202,Copper Armoured Cable 100m Roll,Industrial Machinery,7,18835.82,0.18,23733.13,155583.87,0
+LIT-00666,INV-2026-0203,Facility HVAC Annual Maintenance,Facility Management,11,90523.75,0.18,179237.02,1174998.27,0
+LIT-00667,INV-2026-0203,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,6409.89,0.12,11537.8,107686.15,0
+LIT-00668,INV-2026-0203,Dell PowerEdge R750 Server,IT Hardware & Servers,8,184686.97,0.18,265949.24,1743445.0,0
+LIT-00669,INV-2026-0204,Security Guard Force Monthly Retainer,Security Services,9,67394.16,0.18,109178.54,715725.98,0
+LIT-00670,INV-2026-0205,Interstate Fleet Haulage Service,Logistics & Freight,10,35658.85,0.05,17829.42,374417.92,0
+LIT-00671,INV-2026-0205,Cisco Core Switch 24-Port,IT Hardware & Servers,12,44697.82,0.18,96547.29,632921.13,0
+LIT-00672,INV-2026-0205,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8484.64,0.18,16799.59,110130.63,0
+LIT-00673,INV-2026-0205,Corporate Legal Due Diligence,Consulting & Legal,3,121696.85,0.18,65716.3,430806.85,0
+LIT-00674,INV-2026-0205,Copper Armoured Cable 100m Roll,Industrial Machinery,15,20136.55,0.18,54368.68,356416.93,0
+LIT-00675,INV-2026-0206,Copper Armoured Cable 100m Roll,Industrial Machinery,13,18847.54,0.18,44103.24,289121.26,0
+LIT-00676,INV-2026-0206,Logistics Freight Container Shipment,Logistics & Freight,6,41246.66,0.05,12374.0,259853.96,0
+LIT-00677,INV-2026-0206,Modular Workstation Desk,Office Supplies & Furniture,4,15280.56,0.18,11002.0,72124.24,0
+LIT-00678,INV-2026-0206,Interstate Fleet Haulage Service,Logistics & Freight,7,35501.61,0.05,12425.56,260936.83,0
+LIT-00679,INV-2026-0207,Logistics Freight Container Shipment,Logistics & Freight,8,41227.46,0.28,92349.51,422169.19,1
+LIT-00680,INV-2026-0207,Heavy Pallet Hydraulic Jack,Industrial Machinery,9,27754.55,0.18,44962.37,294753.32,0
+LIT-00681,INV-2026-0207,Interstate Fleet Haulage Service,Logistics & Freight,2,33250.59,0.05,3325.06,69826.24,0
+LIT-00682,INV-2026-0207,Industrial Coating Resin 50L Drum,Industrial Machinery,10,14651.09,0.18,26371.96,172882.86,0
+LIT-00683,INV-2026-0208,Industrial Diesel Generator 25kVA,Industrial Machinery,1,315626.96,0.28,88375.55,404002.51,0
+LIT-00684,INV-2026-0208,Copper Armoured Cable 100m Roll,Industrial Machinery,8,18959.69,0.18,27301.95,178979.47,0
+LIT-00685,INV-2026-0208,Industrial Diesel Generator 25kVA,Industrial Machinery,10,321924.83,0.28,901389.52,4120637.82,0
+LIT-00686,INV-2026-0208,Facility HVAC Annual Maintenance,Facility Management,11,94744.77,0.18,187594.64,1229787.11,0
+LIT-00687,INV-2026-0209,Industrial Coating Resin 50L Drum,Industrial Machinery,9,14198.38,0.18,23001.38,150786.8,0
+LIT-00688,INV-2026-0209,Industrial Diesel Generator 25kVA,Industrial Machinery,1,326467.07,0.28,91410.78,417877.85,0
+LIT-00689,INV-2026-0209,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,5991.78,0.12,2157.04,20132.38,0
+LIT-00690,INV-2026-0209,Copper Armoured Cable 100m Roll,Industrial Machinery,12,19922.87,0.18,43033.4,282107.84,0
+LIT-00691,INV-2026-0209,Heavy Pallet Hydraulic Jack,Industrial Machinery,10,26899.49,0.18,48419.08,317413.98,0
+LIT-00692,INV-2026-0209,Ergonomic Mesh Office Chair,Office Supplies & Furniture,15,8234.41,0.18,22232.91,145749.06,0
+LIT-00693,INV-2026-0210,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,11,6282.61,0.12,8293.05,77401.76,0
+LIT-00694,INV-2026-0211,Dell PowerEdge R750 Server,IT Hardware & Servers,1,193581.31,0.18,34844.64,228425.95,0
+LIT-00695,INV-2026-0211,Interstate Fleet Haulage Service,Logistics & Freight,9,35826.75,0.05,16122.04,338562.79,0
+LIT-00696,INV-2026-0211,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,10,6158.34,0.12,7390.01,68973.41,0
+LIT-00697,INV-2026-0211,Logistics Freight Container Shipment,Logistics & Freight,13,43782.36,0.05,28458.53,597629.21,0
+LIT-00698,INV-2026-0211,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6454.31,0.12,9294.21,86745.93,0
+LIT-00699,INV-2026-0212,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,6089.54,0.12,10961.17,102304.27,0
+LIT-00700,INV-2026-0212,Heavy Pallet Hydraulic Jack,Industrial Machinery,10,27772.26,0.18,49990.07,327712.67,0
+LIT-00701,INV-2026-0212,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,4,6319.36,0.12,3033.29,28310.73,0
+LIT-00702,INV-2026-0212,Modular Workstation Desk,Office Supplies & Furniture,6,15836.59,0.18,17103.52,112123.06,0
+LIT-00703,INV-2026-0212,Modular Workstation Desk,Office Supplies & Furniture,3,15924.55,0.18,8599.26,56372.91,0
+LIT-00704,INV-2026-0213,Security Guard Force Monthly Retainer,Security Services,11,67830.83,0.18,134305.04,880444.17,0
+LIT-00705,INV-2026-0213,Ergonomic Mesh Office Chair,Office Supplies & Furniture,10,8245.76,0.18,14842.37,97299.97,0
+LIT-00706,INV-2026-0213,Security Guard Force Monthly Retainer,Security Services,6,63638.77,0.18,68729.87,450562.49,0
+LIT-00707,INV-2026-0213,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6306.87,0.12,9081.89,84764.33,0
+LIT-00708,INV-2026-0213,Corporate Legal Due Diligence,Consulting & Legal,3,125702.15,0.18,67879.16,444985.61,0
+LIT-00709,INV-2026-0213,Interstate Fleet Haulage Service,Logistics & Freight,11,35148.72,0.05,19331.8,405967.72,0
+LIT-00710,INV-2026-0214,Security Guard Force Monthly Retainer,Security Services,12,64463.61,0.18,139241.4,912804.72,0
+LIT-00711,INV-2026-0214,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6411.66,0.12,3847.0,35905.3,0
+LIT-00712,INV-2026-0214,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,6415.33,0.12,10007.91,93407.2,0
+LIT-00713,INV-2026-0214,Server Rack Chassis 42U,IT Hardware & Servers,1,75170.47,0.18,13530.68,88701.15,0
+LIT-00714,INV-2026-0214,Heavy Pallet Hydraulic Jack,Industrial Machinery,11,27006.91,0.18,53473.68,350549.69,0
+LIT-00715,INV-2026-0214,Server Rack Chassis 42U,IT Hardware & Servers,13,72749.27,0.18,170233.29,1115973.8,0
+LIT-00716,INV-2026-0215,Industrial Coating Resin 50L Drum,Industrial Machinery,13,14202.95,0.18,33234.9,217873.25,0
+LIT-00717,INV-2026-0215,Interstate Fleet Haulage Service,Logistics & Freight,14,33363.07,0.05,23354.15,490437.13,0
+LIT-00718,INV-2026-0215,Logistics Freight Container Shipment,Logistics & Freight,14,40330.42,0.05,28231.29,592857.17,0
+LIT-00719,INV-2026-0215,Corporate Legal Due Diligence,Consulting & Legal,14,122873.91,0.18,309642.25,2029876.99,0
+LIT-00720,INV-2026-0215,Ergonomic Mesh Office Chair,Office Supplies & Furniture,9,8706.05,0.18,14103.8,92458.25,0
+LIT-00721,INV-2026-0215,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,27265.27,0.18,63800.73,418249.24,0
+LIT-00722,INV-2026-0216,Industrial Diesel Generator 25kVA,Industrial Machinery,1,334906.66,0.28,93773.86,430939.91000000003,1
+LIT-00723,INV-2026-0216,Facility HVAC Annual Maintenance,Facility Management,14,98504.07,0.18,248230.26,1627287.24,0
+LIT-00724,INV-2026-0216,Copper Armoured Cable 100m Roll,Industrial Machinery,4,19388.97,0.18,13960.06,91515.94,0
+LIT-00725,INV-2026-0216,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6282.95,0.12,9047.45,84442.85,0
+LIT-00726,INV-2026-0216,Corporate Legal Due Diligence,Consulting & Legal,10,118412.89,0.18,213143.2,1397272.1,0
+LIT-00727,INV-2026-0216,Interstate Fleet Haulage Service,Logistics & Freight,4,35834.58,0.05,7166.92,150505.24,0
+LIT-00728,INV-2026-0217,Cisco Core Switch 24-Port,IT Hardware & Servers,3,43591.39,0.18,23539.35,154313.52,0
+LIT-00729,INV-2026-0217,Security Guard Force Monthly Retainer,Security Services,7,65090.0,0.18,82013.4,537643.4,0
+LIT-00730,INV-2026-0217,Server Rack Chassis 42U,IT Hardware & Servers,9,74463.81,0.18,120631.37,790805.66,0
+LIT-00731,INV-2026-0217,Modular Workstation Desk,Office Supplies & Furniture,10,15408.11,0.18,27734.6,181815.7,0
+LIT-00732,INV-2026-0217,Copper Armoured Cable 100m Roll,Industrial Machinery,6,19022.28,0.18,20544.06,134677.74,0
+LIT-00733,INV-2026-0217,Logistics Freight Container Shipment,Logistics & Freight,3,42880.7,0.05,6432.1,135074.2,0
+LIT-00734,INV-2026-0218,Modular Workstation Desk,Office Supplies & Furniture,10,15984.88,0.18,28772.78,188621.58,0
+LIT-00735,INV-2026-0218,Interstate Fleet Haulage Service,Logistics & Freight,13,34503.3,0.05,22427.15,470970.05,0
+LIT-00736,INV-2026-0218,Security Guard Force Monthly Retainer,Security Services,4,63816.08,0.18,45947.58,301211.9,0
+LIT-00737,INV-2026-0218,Dell PowerEdge R750 Server,IT Hardware & Servers,13,185381.22,0.18,433792.05,2843747.91,0
+LIT-00738,INV-2026-0218,Interstate Fleet Haulage Service,Logistics & Freight,9,33807.8,0.05,15213.51,319483.71,0
+LIT-00739,INV-2026-0218,Interstate Fleet Haulage Service,Logistics & Freight,6,34661.96,0.05,10398.59,218370.35,0
+LIT-00740,INV-2026-0219,Interstate Fleet Haulage Service,Logistics & Freight,9,34912.0,0.05,15710.4,329918.4,0
+LIT-00741,INV-2026-0219,Copper Armoured Cable 100m Roll,Industrial Machinery,11,19991.66,0.18,39583.49,259491.75,0
+LIT-00742,INV-2026-0219,Server Rack Chassis 42U,IT Hardware & Servers,6,72110.41,0.18,77879.24,510541.7,0
+LIT-00743,INV-2026-0219,Logistics Freight Container Shipment,Logistics & Freight,11,40909.46,0.05,22500.2,472504.26,0
+LIT-00744,INV-2026-0219,Facility HVAC Annual Maintenance,Facility Management,4,98976.77,0.18,71263.27,467170.35,0
+LIT-00745,INV-2026-0220,Security Guard Force Monthly Retainer,Security Services,15,63588.39,0.18,171688.65,1125514.5,0
+LIT-00746,INV-2026-0220,Interstate Fleet Haulage Service,Logistics & Freight,6,36127.38,0.05,10838.21,227602.49,0
+LIT-00747,INV-2026-0220,Interstate Fleet Haulage Service,Logistics & Freight,8,36059.86,0.05,14423.94,302902.82,0
+LIT-00748,INV-2026-0220,Logistics Freight Container Shipment,Logistics & Freight,15,40084.18,0.05,30063.13,631325.83,0
+LIT-00749,INV-2026-0220,Corporate Legal Due Diligence,Consulting & Legal,9,116310.15,0.18,188422.44,1235213.79,0
+LIT-00750,INV-2026-0221,Corporate Legal Due Diligence,Consulting & Legal,4,121554.17,0.18,87519.0,573735.68,0
+LIT-00751,INV-2026-0221,Copper Armoured Cable 100m Roll,Industrial Machinery,14,19861.54,0.18,50051.08,328112.64,0
+LIT-00752,INV-2026-0222,Industrial Diesel Generator 25kVA,Industrial Machinery,2,305212.36,0.28,170918.92,787403.14,1
+LIT-00753,INV-2026-0222,Interstate Fleet Haulage Service,Logistics & Freight,14,33496.55,0.05,23447.59,492399.29,0
+LIT-00754,INV-2026-0222,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8849.34,0.18,11150.17,73095.55,0
+LIT-00755,INV-2026-0222,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,27863.15,0.18,35107.57,230149.62,0
+LIT-00756,INV-2026-0222,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,27485.93,0.18,34632.27,227033.78,0
+LIT-00757,INV-2026-0222,Corporate Legal Due Diligence,Consulting & Legal,1,115419.67,0.18,20775.54,136195.21,0
+LIT-00758,INV-2026-0223,Industrial Diesel Generator 25kVA,Industrial Machinery,2,333697.53,0.28,186870.62,859566.8300000001,1
+LIT-00759,INV-2026-0224,Server Rack Chassis 42U,IT Hardware & Servers,9,74804.91,0.18,121183.95,794428.14,0
+LIT-00760,INV-2026-0224,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8190.92,0.18,10320.56,67657.0,0
+LIT-00761,INV-2026-0224,Industrial Coating Resin 50L Drum,Industrial Machinery,9,14931.35,0.18,24188.79,158570.94,0
+LIT-00762,INV-2026-0224,Modular Workstation Desk,Office Supplies & Furniture,3,16736.21,0.18,9037.55,59246.18,0
+LIT-00763,INV-2026-0224,Modular Workstation Desk,Office Supplies & Furniture,15,16283.66,0.18,43965.88,288220.78,0
+LIT-00764,INV-2026-0224,Industrial Coating Resin 50L Drum,Industrial Machinery,11,15032.35,0.18,29764.05,195119.9,0
+LIT-00765,INV-2026-0225,Facility HVAC Annual Maintenance,Facility Management,9,95918.22,0.05,43163.2,906427.18,1
+LIT-00766,INV-2026-0226,Dell PowerEdge R750 Server,IT Hardware & Servers,4,178727.66,0.18,128683.92,843594.56,0
+LIT-00767,INV-2026-0226,Facility HVAC Annual Maintenance,Facility Management,4,98180.11,0.18,70689.68,463410.12,0
+LIT-00768,INV-2026-0226,Cisco Core Switch 24-Port,IT Hardware & Servers,13,43566.11,0.18,101944.7,668304.13,0
+LIT-00769,INV-2026-0226,Facility HVAC Annual Maintenance,Facility Management,14,98346.39,0.18,247832.9,1624682.36,0
+LIT-00770,INV-2026-0226,Industrial Coating Resin 50L Drum,Industrial Machinery,9,15126.94,0.18,24505.64,160648.1,0
+LIT-00771,INV-2026-0227,Facility HVAC Annual Maintenance,Facility Management,6,94878.31,0.18,102468.57,676937.5,1
+LIT-00772,INV-2026-0227,Ergonomic Mesh Office Chair,Office Supplies & Furniture,10,8160.04,0.18,14688.07,96288.47,0
+LIT-00773,INV-2026-0227,Cisco Core Switch 24-Port,IT Hardware & Servers,6,46800.53,0.18,50544.57,331347.75,0
+LIT-00774,INV-2026-0227,Logistics Freight Container Shipment,Logistics & Freight,10,41792.71,0.05,20896.35,438823.45,0
+LIT-00775,INV-2026-0227,Corporate Legal Due Diligence,Consulting & Legal,10,117668.11,0.18,211802.6,1388483.7,0
+LIT-00776,INV-2026-0227,Dell PowerEdge R750 Server,IT Hardware & Servers,6,186212.71,0.18,201109.73,1318385.99,0
+LIT-00777,INV-2026-0228,Security Guard Force Monthly Retainer,Security Services,7,66558.81,0.18,83864.1,549775.77,0
+LIT-00778,INV-2026-0228,Modular Workstation Desk,Office Supplies & Furniture,3,16544.18,0.18,8933.86,58566.4,0
+LIT-00779,INV-2026-0229,Logistics Freight Container Shipment,Logistics & Freight,3,42217.02,0.05,6332.55,132983.61,0
+LIT-00780,INV-2026-0229,Corporate Legal Due Diligence,Consulting & Legal,14,121279.53,0.18,305624.42,2003537.84,0
+LIT-00781,INV-2026-0229,Modular Workstation Desk,Office Supplies & Furniture,3,16573.94,0.18,8949.93,58671.75,0
+LIT-00782,INV-2026-0230,Corporate Legal Due Diligence,Consulting & Legal,10,114374.33,0.18,205873.79,1349617.09,0
+LIT-00783,INV-2026-0230,Facility HVAC Annual Maintenance,Facility Management,10,94098.78,0.18,169377.8,1110365.6,0
+LIT-00784,INV-2026-0230,Ergonomic Mesh Office Chair,Office Supplies & Furniture,9,8845.36,0.18,14329.48,93937.72,0
+LIT-00785,INV-2026-0230,Modular Workstation Desk,Office Supplies & Furniture,9,16069.55,0.18,26032.67,170658.62,0
+LIT-00786,INV-2026-0230,Logistics Freight Container Shipment,Logistics & Freight,3,42646.41,0.05,6396.96,134336.19,0
+LIT-00787,INV-2026-0231,Cisco Core Switch 24-Port,IT Hardware & Servers,9,44535.53,0.18,72147.56,472967.33,0
+LIT-00788,INV-2026-0231,Server Rack Chassis 42U,IT Hardware & Servers,14,76220.09,0.18,192074.63,1259155.89,0
+LIT-00789,INV-2026-0231,Industrial Coating Resin 50L Drum,Industrial Machinery,11,15198.69,0.18,30093.41,197279.0,0
+LIT-00790,INV-2026-0231,Dell PowerEdge R750 Server,IT Hardware & Servers,3,189758.31,0.18,102469.49,671744.42,0
+LIT-00791,INV-2026-0231,Logistics Freight Container Shipment,Logistics & Freight,10,40568.73,0.05,20284.37,425971.67,0
+LIT-00792,INV-2026-0232,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8128.43,0.18,8778.7,62729.38,1
+LIT-00793,INV-2026-0232,Interstate Fleet Haulage Service,Logistics & Freight,6,36427.04,0.05,10928.11,229490.35,0
+LIT-00794,INV-2026-0232,Heavy Pallet Hydraulic Jack,Industrial Machinery,8,27915.09,0.18,40197.73,263518.45,0
+LIT-00795,INV-2026-0232,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,11,5918.79,0.12,7812.8,72919.49,0
+LIT-00796,INV-2026-0233,Dell PowerEdge R750 Server,IT Hardware & Servers,7,182718.2,0.18,230224.93,1509252.33,0
+LIT-00797,INV-2026-0233,Industrial Diesel Generator 25kVA,Industrial Machinery,15,322805.72,0.28,1355784.02,6197869.82,0
+LIT-00798,INV-2026-0233,Copper Armoured Cable 100m Roll,Industrial Machinery,5,18676.78,0.18,16809.1,110193.0,0
+LIT-00799,INV-2026-0233,Heavy Pallet Hydraulic Jack,Industrial Machinery,4,29323.49,0.18,21112.91,138406.87,0
+LIT-00800,INV-2026-0233,Interstate Fleet Haulage Service,Logistics & Freight,14,34670.45,0.05,24269.31,509655.61,0
+LIT-00801,INV-2026-0234,Dell PowerEdge R750 Server,IT Hardware & Servers,9,180004.83,0.18,291607.82,1911651.29,0
+LIT-00802,INV-2026-0234,Corporate Legal Due Diligence,Consulting & Legal,3,117369.71,0.18,63379.64,415488.77,0
+LIT-00803,INV-2026-0234,Dell PowerEdge R750 Server,IT Hardware & Servers,10,178661.11,0.18,321590.0,2108201.1,0
+LIT-00804,INV-2026-0234,Security Guard Force Monthly Retainer,Security Services,11,67060.21,0.18,132779.22,870441.53,0
+LIT-00805,INV-2026-0235,Dell PowerEdge R750 Server,IT Hardware & Servers,7,187724.3,0.18,236532.62,1550602.72,0
+LIT-00806,INV-2026-0235,Server Rack Chassis 42U,IT Hardware & Servers,3,73077.53,0.18,39461.87,258694.46,0
+LIT-00807,INV-2026-0235,Facility HVAC Annual Maintenance,Facility Management,3,95877.3,0.18,51773.74,339405.64,0
+LIT-00808,INV-2026-0235,Corporate Legal Due Diligence,Consulting & Legal,15,120151.71,0.18,324409.62,2126685.27,0
+LIT-00809,INV-2026-0235,Facility HVAC Annual Maintenance,Facility Management,3,91645.22,0.18,49488.42,324424.08,0
+LIT-00810,INV-2026-0236,Security Guard Force Monthly Retainer,Security Services,5,66051.34,0.05,16512.83,346769.53,1
+LIT-00811,INV-2026-0236,Facility HVAC Annual Maintenance,Facility Management,14,99681.37,0.18,251197.05,1646736.23,0
+LIT-00812,INV-2026-0236,Logistics Freight Container Shipment,Logistics & Freight,14,40616.38,0.05,28431.47,597060.79,0
+LIT-00813,INV-2026-0236,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,28282.35,0.18,66180.7,433851.25,0
+LIT-00814,INV-2026-0236,Facility HVAC Annual Maintenance,Facility Management,3,98044.31,0.18,52943.93,347076.86,0
+LIT-00815,INV-2026-0236,Facility HVAC Annual Maintenance,Facility Management,5,96516.66,0.18,86864.99,569448.29,0
+LIT-00816,INV-2026-0237,Ergonomic Mesh Office Chair,Office Supplies & Furniture,3,8396.48,0.18,4534.1,29723.54,0
+LIT-00817,INV-2026-0238,Logistics Freight Container Shipment,Logistics & Freight,10,43686.75,0.05,21843.38,458710.88,0
+LIT-00818,INV-2026-0238,Server Rack Chassis 42U,IT Hardware & Servers,9,77833.14,0.18,126089.69,826587.95,0
+LIT-00819,INV-2026-0239,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,11,6471.4,0.12,8542.25,79727.65,0
+LIT-00820,INV-2026-0240,Industrial Coating Resin 50L Drum,Industrial Machinery,6,14889.57,0.18,16080.74,105418.16,0
+LIT-00821,INV-2026-0240,Facility HVAC Annual Maintenance,Facility Management,15,97893.9,0.18,264313.53,1732722.03,0
+LIT-00822,INV-2026-0240,Industrial Coating Resin 50L Drum,Industrial Machinery,10,14988.93,0.18,26980.07,176869.37,0
+LIT-00823,INV-2026-0240,Cisco Core Switch 24-Port,IT Hardware & Servers,5,44664.7,0.18,40198.23,263521.73,0
+LIT-00824,INV-2026-0241,Modular Workstation Desk,Office Supplies & Furniture,12,15502.43,0.18,33485.25,219514.41,0
+LIT-00825,INV-2026-0241,Security Guard Force Monthly Retainer,Security Services,10,66881.25,0.18,120386.25,789198.75,0
+LIT-00826,INV-2026-0241,Interstate Fleet Haulage Service,Logistics & Freight,1,33662.4,0.05,1683.12,35345.52,0
+LIT-00827,INV-2026-0241,Heavy Pallet Hydraulic Jack,Industrial Machinery,12,28432.73,0.18,61414.7,402607.46,0
+LIT-00828,INV-2026-0242,Modular Workstation Desk,Office Supplies & Furniture,7,16567.96,0.18,20875.63,136851.35,0
+LIT-00829,INV-2026-0242,Facility HVAC Annual Maintenance,Facility Management,5,93723.62,0.18,84351.26,552969.36,0
+LIT-00830,INV-2026-0242,Corporate Legal Due Diligence,Consulting & Legal,4,118769.45,0.18,85514.0,560591.8,0
+LIT-00831,INV-2026-0243,Modular Workstation Desk,Office Supplies & Furniture,10,16781.61,0.18,30206.9,198023.0,0
+LIT-00832,INV-2026-0243,Industrial Diesel Generator 25kVA,Industrial Machinery,7,328774.22,0.28,644397.47,2945817.01,0
+LIT-00833,INV-2026-0243,Security Guard Force Monthly Retainer,Security Services,14,62647.45,0.18,157871.57,1034935.87,0
+LIT-00834,INV-2026-0243,Corporate Legal Due Diligence,Consulting & Legal,4,115429.03,0.18,83108.9,544825.02,0
+LIT-00835,INV-2026-0244,Industrial Coating Resin 50L Drum,Industrial Machinery,12,14573.34,0.18,31478.41,206358.49,0
+LIT-00836,INV-2026-0244,Corporate Legal Due Diligence,Consulting & Legal,3,122481.48,0.18,66140.0,433584.44,0
+LIT-00837,INV-2026-0244,Heavy Pallet Hydraulic Jack,Industrial Machinery,1,29300.8,0.18,5274.14,34574.94,0
+LIT-00838,INV-2026-0245,Industrial Diesel Generator 25kVA,Industrial Machinery,1,306561.27,0.28,85837.16,392398.43,0
+LIT-00839,INV-2026-0245,Heavy Pallet Hydraulic Jack,Industrial Machinery,9,28319.1,0.18,45876.94,307993.55000000005,1
+LIT-00840,INV-2026-0246,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6388.42,0.12,3833.05,41762.87,1
+LIT-00841,INV-2026-0246,Interstate Fleet Haulage Service,Logistics & Freight,4,35055.35,0.05,7011.07,147232.47,0
+LIT-00842,INV-2026-0246,Facility HVAC Annual Maintenance,Facility Management,1,91860.09,0.18,16534.82,108394.91,0
+LIT-00843,INV-2026-0246,Industrial Diesel Generator 25kVA,Industrial Machinery,1,311656.21,0.28,87263.74,398919.95,0
+LIT-00844,INV-2026-0246,Dell PowerEdge R750 Server,IT Hardware & Servers,5,177356.59,0.18,159620.93,1046403.88,0
+LIT-00845,INV-2026-0246,Industrial Coating Resin 50L Drum,Industrial Machinery,11,14354.18,0.18,28421.28,186317.26,0
+LIT-00846,INV-2026-0247,Cisco Core Switch 24-Port,IT Hardware & Servers,9,46886.3,0.18,75955.81,504240.86,1
+LIT-00847,INV-2026-0247,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6251.42,0.12,4501.02,42009.54,0
+LIT-00848,INV-2026-0247,Copper Armoured Cable 100m Roll,Industrial Machinery,10,19064.19,0.18,34315.54,224957.44,0
+LIT-00849,INV-2026-0247,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8461.55,0.18,10661.55,69892.4,0
+LIT-00850,INV-2026-0247,Facility HVAC Annual Maintenance,Facility Management,3,90294.19,0.18,48758.86,319641.43,0
+LIT-00851,INV-2026-0247,Heavy Pallet Hydraulic Jack,Industrial Machinery,9,28017.47,0.18,45388.3,297545.53,0
+LIT-00852,INV-2026-0248,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,6223.5,0.12,9708.66,90614.16,0
+LIT-00853,INV-2026-0248,Facility HVAC Annual Maintenance,Facility Management,8,92626.34,0.18,133381.93,874392.65,0
+LIT-00854,INV-2026-0248,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,28176.87,0.18,65933.88,432233.19,0
+LIT-00855,INV-2026-0249,Cisco Core Switch 24-Port,IT Hardware & Servers,7,43910.19,0.18,55326.84,362698.17,0
+LIT-00856,INV-2026-0249,Corporate Legal Due Diligence,Consulting & Legal,4,123463.87,0.18,88893.99,582749.47,0
+LIT-00857,INV-2026-0249,Corporate Legal Due Diligence,Consulting & Legal,13,122414.11,0.18,286449.02,1877832.45,0
+LIT-00858,INV-2026-0249,Industrial Diesel Generator 25kVA,Industrial Machinery,6,317197.63,0.28,532892.02,2436077.8,0
+LIT-00859,INV-2026-0250,Security Guard Force Monthly Retainer,Security Services,2,67086.99,0.05,6708.7,140882.68,1
+LIT-00860,INV-2026-0250,Industrial Diesel Generator 25kVA,Industrial Machinery,15,315313.21,0.28,1324315.48,6054013.63,0
+LIT-00861,INV-2026-0250,Facility HVAC Annual Maintenance,Facility Management,12,92806.22,0.18,200461.44,1314136.08,0
+LIT-00862,INV-2026-0250,Corporate Legal Due Diligence,Consulting & Legal,4,125163.06,0.18,90117.4,590769.64,0
+LIT-00863,INV-2026-0250,Logistics Freight Container Shipment,Logistics & Freight,4,42995.87,0.05,8599.17,180582.65,0
+LIT-00864,INV-2026-0250,Security Guard Force Monthly Retainer,Security Services,5,63323.37,0.18,56991.03,373607.88,0
+LIT-00865,INV-2026-0251,Cisco Core Switch 24-Port,IT Hardware & Servers,11,46890.85,0.18,92843.88,608643.23,0
+LIT-00866,INV-2026-0252,Facility HVAC Annual Maintenance,Facility Management,15,93246.46,0.18,251765.44,1650462.34,0
+LIT-00867,INV-2026-0252,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,14,6446.14,0.12,10829.52,101075.48,0
+LIT-00868,INV-2026-0252,Modular Workstation Desk,Office Supplies & Furniture,13,15985.29,0.18,37405.58,245214.35,0
+LIT-00869,INV-2026-0253,Logistics Freight Container Shipment,Logistics & Freight,1,43846.55,0.05,2192.33,46038.88,0
+LIT-00870,INV-2026-0253,Corporate Legal Due Diligence,Consulting & Legal,8,123310.85,0.18,177567.62,1164054.42,0
+LIT-00871,INV-2026-0253,Logistics Freight Container Shipment,Logistics & Freight,1,41225.74,0.05,2061.29,45262.299999999996,1
+LIT-00872,INV-2026-0253,Facility HVAC Annual Maintenance,Facility Management,6,91207.1,0.18,98503.67,645746.27,0
+LIT-00873,INV-2026-0254,Logistics Freight Container Shipment,Logistics & Freight,6,43925.81,0.05,13177.74,276732.6,0
+LIT-00874,INV-2026-0254,Industrial Diesel Generator 25kVA,Industrial Machinery,7,309885.24,0.28,607375.07,2776571.75,0
+LIT-00875,INV-2026-0254,Ergonomic Mesh Office Chair,Office Supplies & Furniture,13,8431.23,0.18,19729.08,129335.07,0
+LIT-00876,INV-2026-0255,Corporate Legal Due Diligence,Consulting & Legal,2,116742.8,0.18,42027.41,275513.01,0
+LIT-00877,INV-2026-0255,Security Guard Force Monthly Retainer,Security Services,4,63504.67,0.18,45723.36,299742.04,0
+LIT-00878,INV-2026-0255,Interstate Fleet Haulage Service,Logistics & Freight,7,34762.77,0.05,12166.97,255506.36,0
+LIT-00879,INV-2026-0255,Ergonomic Mesh Office Chair,Office Supplies & Furniture,12,8198.97,0.18,17709.78,116097.42,0
+LIT-00880,INV-2026-0255,Dell PowerEdge R750 Server,IT Hardware & Servers,1,184500.26,0.18,33210.05,217710.31,0
+LIT-00881,INV-2026-0256,Modular Workstation Desk,Office Supplies & Furniture,14,15601.56,0.18,39315.93,257737.77,0
+LIT-00882,INV-2026-0256,Facility HVAC Annual Maintenance,Facility Management,2,90703.24,0.18,32653.17,214059.65,0
+LIT-00883,INV-2026-0256,Security Guard Force Monthly Retainer,Security Services,4,62811.72,0.18,45224.44,296471.32,0
+LIT-00884,INV-2026-0256,Copper Armoured Cable 100m Roll,Industrial Machinery,14,19020.86,0.18,47932.57,314224.61,0
+LIT-00885,INV-2026-0257,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6392.21,0.12,4602.39,42955.65,0
+LIT-00886,INV-2026-0257,Server Rack Chassis 42U,IT Hardware & Servers,6,74338.21,0.18,80285.27,526314.53,0
+LIT-00887,INV-2026-0257,Copper Armoured Cable 100m Roll,Industrial Machinery,10,19850.19,0.18,35730.34,234232.24,0
+LIT-00888,INV-2026-0257,Ergonomic Mesh Office Chair,Office Supplies & Furniture,11,8565.33,0.18,16959.35,111177.98,0
+LIT-00889,INV-2026-0257,Corporate Legal Due Diligence,Consulting & Legal,13,120461.26,0.18,281879.35,1847875.73,0
+LIT-00890,INV-2026-0258,Facility HVAC Annual Maintenance,Facility Management,11,92971.97,0.18,184084.5,1206776.17,0
+LIT-00891,INV-2026-0258,Dell PowerEdge R750 Server,IT Hardware & Servers,11,191812.77,0.18,379789.28,2489729.75,0
+LIT-00892,INV-2026-0258,Industrial Coating Resin 50L Drum,Industrial Machinery,7,15121.42,0.18,19052.99,124902.93,0
+LIT-00893,INV-2026-0258,Corporate Legal Due Diligence,Consulting & Legal,7,121347.72,0.18,152898.13,1002332.17,0
+LIT-00894,INV-2026-0259,Modular Workstation Desk,Office Supplies & Furniture,10,16336.69,0.18,29406.04,192772.94,0
+LIT-00895,INV-2026-0259,Corporate Legal Due Diligence,Consulting & Legal,15,118745.46,0.18,320612.74,2101794.64,0
+LIT-00896,INV-2026-0259,Logistics Freight Container Shipment,Logistics & Freight,6,43180.09,0.05,12954.03,272034.57,0
+LIT-00897,INV-2026-0259,Security Guard Force Monthly Retainer,Security Services,8,65564.98,0.18,94413.57,618933.41,0
+LIT-00898,INV-2026-0259,Heavy Pallet Hydraulic Jack,Industrial Machinery,14,27068.49,0.18,68212.59,447171.45,0
+LIT-00899,INV-2026-0259,Server Rack Chassis 42U,IT Hardware & Servers,4,72187.8,0.18,51975.22,340726.42,0
+LIT-00900,INV-2026-0260,Cisco Core Switch 24-Port,IT Hardware & Servers,8,46965.57,0.18,67630.42,443354.98,0
+LIT-00901,INV-2026-0261,Dell PowerEdge R750 Server,IT Hardware & Servers,15,177309.76,0.05,132982.32,2792628.72,1
+LIT-00902,INV-2026-0261,Ergonomic Mesh Office Chair,Office Supplies & Furniture,8,8701.95,0.18,12530.81,82146.41,0
+LIT-00903,INV-2026-0261,Corporate Legal Due Diligence,Consulting & Legal,9,115516.94,0.18,187137.44,1226789.9,0
+LIT-00904,INV-2026-0261,Copper Armoured Cable 100m Roll,Industrial Machinery,1,18857.69,0.18,3394.38,22252.07,0
+LIT-00905,INV-2026-0261,Corporate Legal Due Diligence,Consulting & Legal,15,118282.09,0.18,319361.64,2093592.99,0
+LIT-00906,INV-2026-0262,Logistics Freight Container Shipment,Logistics & Freight,12,40467.48,0.05,24280.49,509890.25,0
+LIT-00907,INV-2026-0262,Interstate Fleet Haulage Service,Logistics & Freight,10,33869.63,0.05,16934.81,355631.11,0
+LIT-00908,INV-2026-0262,Logistics Freight Container Shipment,Logistics & Freight,11,42550.4,0.05,23402.72,491457.12,0
+LIT-00909,INV-2026-0262,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,9,6239.67,0.12,6738.84,62895.87,0
+LIT-00910,INV-2026-0262,Corporate Legal Due Diligence,Consulting & Legal,5,121674.34,0.18,109506.91,717878.61,0
+LIT-00911,INV-2026-0263,Modular Workstation Desk,Office Supplies & Furniture,1,15449.15,0.18,2780.85,18230.0,0
+LIT-00912,INV-2026-0263,Server Rack Chassis 42U,IT Hardware & Servers,13,75174.87,0.18,175909.2,1153182.51,0
+LIT-00913,INV-2026-0263,Copper Armoured Cable 100m Roll,Industrial Machinery,5,18790.79,0.18,16911.71,110865.66,0
+LIT-00914,INV-2026-0263,Logistics Freight Container Shipment,Logistics & Freight,12,42147.42,0.05,25288.45,531057.49,0
+LIT-00915,INV-2026-0264,Facility HVAC Annual Maintenance,Facility Management,1,92446.55,0.18,16640.38,109086.93,0
+LIT-00916,INV-2026-0264,Interstate Fleet Haulage Service,Logistics & Freight,7,34557.75,0.05,12095.21,253999.46,0
+LIT-00917,INV-2026-0264,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6237.54,0.12,5239.53,48902.31,0
+LIT-00918,INV-2026-0265,Heavy Pallet Hydraulic Jack,Industrial Machinery,9,28350.9,0.18,45928.46,301086.56,0
+LIT-00919,INV-2026-0266,Industrial Coating Resin 50L Drum,Industrial Machinery,4,14164.79,0.05,2832.96,59492.12,1
+LIT-00920,INV-2026-0266,Modular Workstation Desk,Office Supplies & Furniture,8,15376.57,0.18,22142.26,145154.82,0
+LIT-00921,INV-2026-0266,Facility HVAC Annual Maintenance,Facility Management,12,94551.29,0.18,204230.79,1338846.27,0
+LIT-00922,INV-2026-0266,Facility HVAC Annual Maintenance,Facility Management,6,94923.96,0.18,102517.88,672061.64,0
+LIT-00923,INV-2026-0266,Server Rack Chassis 42U,IT Hardware & Servers,9,72391.12,0.18,117273.61,768793.69,0
+LIT-00924,INV-2026-0267,Security Guard Force Monthly Retainer,Security Services,2,61803.33,0.18,22249.2,145855.86,0
+LIT-00925,INV-2026-0267,Dell PowerEdge R750 Server,IT Hardware & Servers,4,176022.41,0.18,126736.14,830825.78,0
+LIT-00926,INV-2026-0267,Industrial Diesel Generator 25kVA,Industrial Machinery,13,317447.78,0.28,1155509.92,5282331.06,0
+LIT-00927,INV-2026-0267,Industrial Coating Resin 50L Drum,Industrial Machinery,6,14497.67,0.18,15657.48,102643.5,0
+LIT-00928,INV-2026-0268,Cisco Core Switch 24-Port,IT Hardware & Servers,3,45194.36,0.18,24404.95,166378.81,1
+LIT-00929,INV-2026-0268,Copper Armoured Cable 100m Roll,Industrial Machinery,1,19269.08,0.18,3468.43,22737.51,0
+LIT-00930,INV-2026-0268,Cisco Core Switch 24-Port,IT Hardware & Servers,12,47135.69,0.18,101813.09,667441.37,0
+LIT-00931,INV-2026-0268,Ergonomic Mesh Office Chair,Office Supplies & Furniture,8,8402.08,0.18,12099.0,79315.64,0
+LIT-00932,INV-2026-0269,Interstate Fleet Haulage Service,Logistics & Freight,4,35581.03,0.05,7116.21,149440.33,0
+LIT-00933,INV-2026-0270,Security Guard Force Monthly Retainer,Security Services,9,67843.24,0.18,109906.05,720495.21,0
+LIT-00934,INV-2026-0271,Ergonomic Mesh Office Chair,Office Supplies & Furniture,4,8902.28,0.18,6409.64,42018.76,0
+LIT-00935,INV-2026-0271,Corporate Legal Due Diligence,Consulting & Legal,1,119209.94,0.18,21457.79,140667.73,0
+LIT-00936,INV-2026-0271,Dell PowerEdge R750 Server,IT Hardware & Servers,10,190446.22,0.18,342803.2,2247265.4,0
+LIT-00937,INV-2026-0271,Cisco Core Switch 24-Port,IT Hardware & Servers,4,44531.14,0.18,32062.42,210186.98,0
+LIT-00938,INV-2026-0271,Server Rack Chassis 42U,IT Hardware & Servers,10,78516.26,0.18,141329.27,926491.87,0
+LIT-00939,INV-2026-0271,Industrial Coating Resin 50L Drum,Industrial Machinery,12,14776.59,0.18,31917.43,209236.51,0
+LIT-00940,INV-2026-0272,Facility HVAC Annual Maintenance,Facility Management,13,93465.01,0.18,218708.12,1433753.25,0
+LIT-00941,INV-2026-0272,Corporate Legal Due Diligence,Consulting & Legal,6,114720.63,0.18,123898.28,812222.06,0
+LIT-00942,INV-2026-0272,Corporate Legal Due Diligence,Consulting & Legal,9,115847.02,0.18,187672.17,1230295.35,0
+LIT-00943,INV-2026-0272,Industrial Coating Resin 50L Drum,Industrial Machinery,8,13930.72,0.18,20060.24,131506.0,0
+LIT-00944,INV-2026-0272,Ergonomic Mesh Office Chair,Office Supplies & Furniture,9,8344.23,0.18,13517.65,88615.72,0
+LIT-00945,INV-2026-0272,Industrial Coating Resin 50L Drum,Industrial Machinery,6,14709.74,0.18,15886.52,104144.96,0
+LIT-00946,INV-2026-0273,Modular Workstation Desk,Office Supplies & Furniture,8,16637.86,0.18,23958.52,157061.4,0
+LIT-00947,INV-2026-0273,Security Guard Force Monthly Retainer,Security Services,5,64593.75,0.18,58134.38,381103.13,0
+LIT-00948,INV-2026-0274,Logistics Freight Container Shipment,Logistics & Freight,14,41056.36,0.05,28739.45,603528.49,0
+LIT-00949,INV-2026-0274,Facility HVAC Annual Maintenance,Facility Management,9,98937.5,0.18,160278.75,1050716.25,0
+LIT-00950,INV-2026-0274,Dell PowerEdge R750 Server,IT Hardware & Servers,3,177024.22,0.18,95593.08,626665.74,0
+LIT-00951,INV-2026-0274,Logistics Freight Container Shipment,Logistics & Freight,5,41141.83,0.05,10285.46,215994.61,0
+LIT-00952,INV-2026-0274,Interstate Fleet Haulage Service,Logistics & Freight,1,34534.89,0.05,1726.74,36261.63,0
+LIT-00953,INV-2026-0274,Industrial Coating Resin 50L Drum,Industrial Machinery,7,14700.14,0.18,18522.18,121423.16,0
+LIT-00954,INV-2026-0275,Cisco Core Switch 24-Port,IT Hardware & Servers,9,45712.3,0.18,74053.93,485464.63,0
+LIT-00955,INV-2026-0275,Copper Armoured Cable 100m Roll,Industrial Machinery,9,19280.61,0.18,31234.59,204760.08,0
+LIT-00956,INV-2026-0275,Corporate Legal Due Diligence,Consulting & Legal,9,119970.59,0.18,194352.36,1274087.67,0
+LIT-00957,INV-2026-0275,Dell PowerEdge R750 Server,IT Hardware & Servers,6,187091.23,0.18,202058.53,1324605.91,0
+LIT-00958,INV-2026-0275,Heavy Pallet Hydraulic Jack,Industrial Machinery,2,28394.53,0.18,10222.03,67011.09,0
+LIT-00959,INV-2026-0275,Cisco Core Switch 24-Port,IT Hardware & Servers,2,45104.4,0.18,16237.58,106446.38,0
+LIT-00960,INV-2026-0276,Cisco Core Switch 24-Port,IT Hardware & Servers,11,42893.18,0.18,84928.5,556753.48,0
+LIT-00961,INV-2026-0276,Interstate Fleet Haulage Service,Logistics & Freight,10,35433.9,0.05,17716.95,375120.43,1
+LIT-00962,INV-2026-0277,Logistics Freight Container Shipment,Logistics & Freight,1,43264.28,0.05,2163.21,45427.49,0
+LIT-00963,INV-2026-0278,Interstate Fleet Haulage Service,Logistics & Freight,2,33392.29,0.05,3339.23,70123.81,0
+LIT-00964,INV-2026-0278,Copper Armoured Cable 100m Roll,Industrial Machinery,4,19117.61,0.18,13764.68,90235.12,0
+LIT-00965,INV-2026-0278,Interstate Fleet Haulage Service,Logistics & Freight,12,33589.92,0.05,20153.95,423232.99,0
+LIT-00966,INV-2026-0279,Dell PowerEdge R750 Server,IT Hardware & Servers,9,186080.83,0.18,301450.94,1976178.41,0
+LIT-00967,INV-2026-0279,Heavy Pallet Hydraulic Jack,Industrial Machinery,13,28689.1,0.18,67132.49,440090.79,0
+LIT-00968,INV-2026-0279,Corporate Legal Due Diligence,Consulting & Legal,11,120918.76,0.18,239419.14,1569525.5,0
+LIT-00969,INV-2026-0279,Logistics Freight Container Shipment,Logistics & Freight,7,42850.71,0.05,14997.75,314952.72,0
+LIT-00970,INV-2026-0279,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,13,5954.54,0.12,9289.08,86698.1,0
+LIT-00971,INV-2026-0279,Dell PowerEdge R750 Server,IT Hardware & Servers,9,185924.36,0.18,301197.46,1974516.7,0
+LIT-00972,INV-2026-0280,Industrial Diesel Generator 25kVA,Industrial Machinery,7,331035.33,0.28,648829.25,2966076.56,0
+LIT-00973,INV-2026-0280,Industrial Coating Resin 50L Drum,Industrial Machinery,14,14693.2,0.18,37026.86,242731.66,0
+LIT-00974,INV-2026-0280,Security Guard Force Monthly Retainer,Security Services,4,63852.43,0.18,45973.75,301383.47,0
+LIT-00975,INV-2026-0280,Facility HVAC Annual Maintenance,Facility Management,7,95433.45,0.18,120246.15,788280.3,0
+LIT-00976,INV-2026-0280,Industrial Coating Resin 50L Drum,Industrial Machinery,12,14572.85,0.18,31477.36,206351.56,0
+LIT-00977,INV-2026-0281,Facility HVAC Annual Maintenance,Facility Management,3,90404.87,0.18,48818.63,320033.24,0
+LIT-00978,INV-2026-0281,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,5,6077.14,0.12,3646.28,34031.98,0
+LIT-00979,INV-2026-0281,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8257.6,0.18,8918.21,58463.81,0
+LIT-00980,INV-2026-0282,Dell PowerEdge R750 Server,IT Hardware & Servers,8,177494.31,0.18,255591.81,1675546.29,0
+LIT-00981,INV-2026-0282,Industrial Diesel Generator 25kVA,Industrial Machinery,5,308995.43,0.28,432593.6,1977570.75,0
+LIT-00982,INV-2026-0282,Industrial Diesel Generator 25kVA,Industrial Machinery,4,332468.01,0.28,372364.17,1702236.21,0
+LIT-00983,INV-2026-0282,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8292.81,0.18,7463.53,48927.58,0
+LIT-00984,INV-2026-0282,Cisco Core Switch 24-Port,IT Hardware & Servers,10,45317.19,0.18,81570.94,534742.84,0
+LIT-00985,INV-2026-0283,Security Guard Force Monthly Retainer,Security Services,15,65495.51,0.18,176837.88,1159270.53,0
+LIT-00986,INV-2026-0283,Cisco Core Switch 24-Port,IT Hardware & Servers,5,45428.54,0.18,40885.69,268028.39,0
+LIT-00987,INV-2026-0283,Server Rack Chassis 42U,IT Hardware & Servers,10,76730.92,0.18,138115.66,905424.86,0
+LIT-00988,INV-2026-0283,Heavy Pallet Hydraulic Jack,Industrial Machinery,1,26819.74,0.18,4827.55,31647.29,0
+LIT-00989,INV-2026-0283,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,6,6367.96,0.12,4584.93,42792.69,0
+LIT-00990,INV-2026-0283,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,7,6396.63,0.12,5373.17,50149.58,0
+LIT-00991,INV-2026-0284,Server Rack Chassis 42U,IT Hardware & Servers,1,73535.88,0.18,13236.46,86772.34,0
+LIT-00992,INV-2026-0284,Industrial Diesel Generator 25kVA,Industrial Machinery,3,321277.75,0.28,269873.31,1233706.56,0
+LIT-00993,INV-2026-0284,Industrial Diesel Generator 25kVA,Industrial Machinery,4,320076.85,0.28,358486.07,1638793.47,0
+LIT-00994,INV-2026-0284,Dell PowerEdge R750 Server,IT Hardware & Servers,12,176684.62,0.18,381638.78,2501854.22,0
+LIT-00995,INV-2026-0285,Modular Workstation Desk,Office Supplies & Furniture,3,16458.19,0.18,8887.42,59339.81,1
+LIT-00996,INV-2026-0285,Facility HVAC Annual Maintenance,Facility Management,9,97330.49,0.18,157675.39,1033649.8,0
+LIT-00997,INV-2026-0285,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,27335.16,0.18,34442.3,225788.42,0
+LIT-00998,INV-2026-0285,Interstate Fleet Haulage Service,Logistics & Freight,12,34770.72,0.05,20862.43,438111.07,0
+LIT-00999,INV-2026-0286,Corporate Legal Due Diligence,Consulting & Legal,9,120855.97,0.18,195786.67,1283490.4,0
+LIT-01000,INV-2026-0286,Facility HVAC Annual Maintenance,Facility Management,9,99722.25,0.18,161550.04,1059050.29,0
+LIT-01001,INV-2026-0286,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8280.97,0.18,7452.87,48857.72,0
+LIT-01002,INV-2026-0286,Industrial Coating Resin 50L Drum,Industrial Machinery,11,14398.6,0.18,28509.23,186893.83,0
+LIT-01003,INV-2026-0287,Industrial Diesel Generator 25kVA,Industrial Machinery,11,315024.8,0.28,970276.38,4435549.18,0
+LIT-01004,INV-2026-0287,Server Rack Chassis 42U,IT Hardware & Servers,3,77022.61,0.18,41592.21,272660.04,0
+LIT-01005,INV-2026-0288,Ergonomic Mesh Office Chair,Office Supplies & Furniture,3,8657.56,0.18,4675.08,30647.76,0
+LIT-01006,INV-2026-0288,Cisco Core Switch 24-Port,IT Hardware & Servers,4,46078.12,0.18,33176.25,217488.73,0
+LIT-01007,INV-2026-0289,Ergonomic Mesh Office Chair,Office Supplies & Furniture,4,8704.01,0.18,6266.89,41082.93,0
+LIT-01008,INV-2026-0289,Ergonomic Mesh Office Chair,Office Supplies & Furniture,13,8539.46,0.18,19982.34,130995.32,0
+LIT-01009,INV-2026-0289,Modular Workstation Desk,Office Supplies & Furniture,10,16078.08,0.18,28940.54,189721.34,0
+LIT-01010,INV-2026-0290,Interstate Fleet Haulage Service,Logistics & Freight,3,33402.19,0.05,5010.33,105216.9,0
+LIT-01011,INV-2026-0290,Server Rack Chassis 42U,IT Hardware & Servers,13,73380.1,0.18,171709.43,1125650.73,0
+LIT-01012,INV-2026-0290,Security Guard Force Monthly Retainer,Security Services,1,65766.77,0.18,11838.02,77604.79,0
+LIT-01013,INV-2026-0290,Logistics Freight Container Shipment,Logistics & Freight,1,42649.98,0.05,2132.5,44782.48,0
+LIT-01014,INV-2026-0290,Cisco Core Switch 24-Port,IT Hardware & Servers,5,44498.9,0.18,40049.01,262543.51,0
+LIT-01015,INV-2026-0290,Corporate Legal Due Diligence,Consulting & Legal,11,124225.0,0.18,245965.5,1612440.5,0
+LIT-01016,INV-2026-0291,Security Guard Force Monthly Retainer,Security Services,6,62397.42,0.18,67389.21,441773.73,0
+LIT-01017,INV-2026-0291,Logistics Freight Container Shipment,Logistics & Freight,9,43540.45,0.05,19593.2,411457.25,0
+LIT-01018,INV-2026-0291,Cisco Core Switch 24-Port,IT Hardware & Servers,9,43588.88,0.18,70613.99,462913.91,0
+LIT-01019,INV-2026-0291,Logistics Freight Container Shipment,Logistics & Freight,12,42254.89,0.05,25352.93,532411.61,0
+LIT-01020,INV-2026-0291,Server Rack Chassis 42U,IT Hardware & Servers,15,71548.14,0.18,193179.98,1266402.08,0
+LIT-01021,INV-2026-0292,Industrial Diesel Generator 25kVA,Industrial Machinery,4,324007.39,0.28,362888.28,1658917.84,0
+LIT-01022,INV-2026-0292,Interstate Fleet Haulage Service,Logistics & Freight,1,34215.57,0.05,1710.78,35926.35,0
+LIT-01023,INV-2026-0292,Corporate Legal Due Diligence,Consulting & Legal,7,117092.15,0.18,147536.11,967181.16,0
+LIT-01024,INV-2026-0293,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,3,6133.56,0.12,2208.08,23784.21,1
+LIT-01025,INV-2026-0293,Corporate Legal Due Diligence,Consulting & Legal,11,121349.38,0.18,240271.77,1575114.95,0
+LIT-01026,INV-2026-0293,Corporate Legal Due Diligence,Consulting & Legal,4,116729.14,0.18,84044.98,550961.54,0
+LIT-01027,INV-2026-0294,Dell PowerEdge R750 Server,IT Hardware & Servers,3,179575.01,0.18,96970.51,635695.54,0
+LIT-01028,INV-2026-0294,Facility HVAC Annual Maintenance,Facility Management,13,95392.86,0.18,223219.29,1463326.47,0
+LIT-01029,INV-2026-0294,Ergonomic Mesh Office Chair,Office Supplies & Furniture,5,8808.2,0.18,7927.38,51968.38,0
+LIT-01030,INV-2026-0294,Security Guard Force Monthly Retainer,Security Services,9,66333.39,0.18,107460.09,704460.6,0
+LIT-01031,INV-2026-0294,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,15,5973.86,0.12,10752.95,100360.85,0
+LIT-01032,INV-2026-0295,Security Guard Force Monthly Retainer,Security Services,6,62519.52,0.05,18755.86,393872.98,1
+LIT-01033,INV-2026-0295,Server Rack Chassis 42U,IT Hardware & Servers,15,76990.76,0.18,207875.05,1362736.45,0
+LIT-01034,INV-2026-0295,Heavy Pallet Hydraulic Jack,Industrial Machinery,5,29291.35,0.18,26362.22,172818.97,0
+LIT-01035,INV-2026-0295,Logistics Freight Container Shipment,Logistics & Freight,14,43031.56,0.05,30122.09,632563.93,0
+LIT-01036,INV-2026-0295,Packaging Corrugated Carton 500pk,Office Supplies & Furniture,12,6284.85,0.12,9050.18,84468.38,0
+LIT-01037,INV-2026-0296,Facility HVAC Annual Maintenance,Facility Management,10,92785.19,0.18,167013.34,1094865.24,0
+LIT-01038,INV-2026-0296,Facility HVAC Annual Maintenance,Facility Management,4,92443.66,0.18,66559.44,436334.08,0
+LIT-01039,INV-2026-0296,Ergonomic Mesh Office Chair,Office Supplies & Furniture,6,8659.27,0.18,9352.01,61307.63,0
+LIT-01040,INV-2026-0296,Cisco Core Switch 24-Port,IT Hardware & Servers,8,45846.64,0.18,66019.16,432792.28,0
+LIT-01041,INV-2026-0296,Dell PowerEdge R750 Server,IT Hardware & Servers,10,185043.0,0.18,333077.4,2183507.4,0
+LIT-01042,INV-2026-0297,Ergonomic Mesh Office Chair,Office Supplies & Furniture,7,8267.33,0.18,10416.84,68288.15,0
+LIT-01043,INV-2026-0297,Industrial Coating Resin 50L Drum,Industrial Machinery,15,15179.78,0.18,40985.41,268682.11,0
+LIT-01044,INV-2026-0298,Copper Armoured Cable 100m Roll,Industrial Machinery,12,19728.27,0.18,42613.06,283055.11,1
+LIT-01045,INV-2026-0298,Ergonomic Mesh Office Chair,Office Supplies & Furniture,13,8438.42,0.18,19745.9,129445.36,0
+LIT-01046,INV-2026-0298,Server Rack Chassis 42U,IT Hardware & Servers,14,75809.47,0.18,191039.86,1252372.44,0
+LIT-01047,INV-2026-0298,Heavy Pallet Hydraulic Jack,Industrial Machinery,7,28616.56,0.18,36056.87,236372.79,0
+LIT-01048,INV-2026-0299,Industrial Coating Resin 50L Drum,Industrial Machinery,2,13830.84,0.18,4979.1,32640.78,0
+LIT-01049,INV-2026-0299,Logistics Freight Container Shipment,Logistics & Freight,15,41818.98,0.05,31364.24,658648.94,0
+LIT-01050,INV-2026-0299,Server Rack Chassis 42U,IT Hardware & Servers,4,77833.35,0.18,56040.01,367373.41,0
+LIT-01051,INV-2026-0299,Interstate Fleet Haulage Service,Logistics & Freight,12,35132.54,0.05,21079.52,442670.0,0
+LIT-01052,INV-2026-0299,Server Rack Chassis 42U,IT Hardware & Servers,9,75432.76,0.18,122201.07,801095.91,0
+LIT-01053,INV-2026-0299,Industrial Coating Resin 50L Drum,Industrial Machinery,1,14689.44,0.18,2644.1,17333.54,0
+LIT-01054,INV-2026-0300,Facility HVAC Annual Maintenance,Facility Management,12,98980.81,0.18,213798.55,1401568.27,0
+LIT-01055,INV-2026-0300,Interstate Fleet Haulage Service,Logistics & Freight,8,36412.86,0.05,14565.14,305868.02,0
+LIT-01056,INV-2026-0300,Copper Armoured Cable 100m Roll,Industrial Machinery,2,19784.9,0.18,7122.56,46692.36,0
