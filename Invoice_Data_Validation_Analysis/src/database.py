@@ -1,6 +1,6 @@
 """
 database.py - Database Access Layer
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import os

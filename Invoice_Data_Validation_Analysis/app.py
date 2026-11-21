@@ -1,7 +1,8 @@
 """
 app.py - Invoice Data Validation & Discrepancy Analytics Platform
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
-Mentor: Kalpana Dwivedi
+Project ID: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Batch ID: ABES_OND26_MCA2ndYear_Data Analytics_Batch 01 | Mentor: Mr. Dinesh Sereno
+Domain: Data Analytics
 """
 
 import streamlit as st
@@ -35,12 +36,13 @@ def main():
     )
     st.sidebar.title("Navigation")
     st.sidebar.markdown("""
-    **Project ID:** `PJ-IVD-2026`  
+    **Project ID:** `P053`  
     **Author:** Surbhi Sharma  
     **Roll No:** `2500320140152`  
-    **Course:** MCA 2nd Year (DA)  
+    **Batch ID:** `ABES_OND26_MCA2ndYear_Data Analytics_Batch 01`  
+    **Domain:** Data Analytics  
     **College:** ABES Engineering College  
-    **Mentor:** Kalpana Dwivedi  
+    **Mentor:** Mr. Dinesh Sereno  
     """)
     st.sidebar.divider()
     st.sidebar.info("Select a module from the sidebar above or use the quick links below.")

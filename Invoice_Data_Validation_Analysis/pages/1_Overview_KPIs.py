@@ -1,6 +1,6 @@
 """
 pages/1_Overview_KPIs.py - Executive KPIs & Trend Analytics
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import streamlit as st

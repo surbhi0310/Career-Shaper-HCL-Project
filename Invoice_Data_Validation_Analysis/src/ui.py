@@ -1,6 +1,6 @@
 """
 ui.py - Tailwind UI Components & Streamlit Layout Helper
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import streamlit as st
@@ -94,7 +94,7 @@ def render_header(title, subtitle):
     html = f"""
     <div class="main-header">
         <h1>{title}</h1>
-        <p>{subtitle} | Project ID: PJ-IVD-2026 | ABES Engineering College (MCA DA)</p>
+        <p>{subtitle} | Project ID: P053 | Mentor: Mr. Dinesh Sereno | Domain: Data Analytics | ABES</p>
     </div>
     """
     st.markdown(html, unsafe_allow_html=True)

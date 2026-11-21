@@ -1,6 +1,6 @@
 """
 generate_data.py - Synthetic Dataset Generator for Invoice Data Validation Platform
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import os

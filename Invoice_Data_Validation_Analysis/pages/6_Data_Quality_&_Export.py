@@ -1,6 +1,6 @@
 """
 pages/6_Data_Quality_&_Export.py - Data Profiling, Quality & Export Center
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import os
@@ -56,4 +56,4 @@ with tabs[2]:
         )
     
     st.markdown("---")
-    st.caption("All datasets conform to synthetic generation standards under academic project PJ-IVD-2026.")
+    st.caption("All datasets conform to synthetic generation standards under academic project P053.")

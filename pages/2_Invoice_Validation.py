@@ -1,6 +1,6 @@
 """
 pages/2_Invoice_Validation.py - Invoice Inspection & Rule Validation
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | ABES Engineering College
+Project: P053 | Surbhi Sharma (2500320140152) | ABES Engineering College
 """
 
 import streamlit as st
