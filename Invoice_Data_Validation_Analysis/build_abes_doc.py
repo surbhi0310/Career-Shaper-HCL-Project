@@ -1,7 +1,7 @@
 """
 build_abes_doc.py - Generates the ABES Project Document (docs/PJ_IVD_2026_Project_Document.docx)
 Strictly conforming to ABES Formatting Specifications
-Project: PJ-IVD-2026 | Surbhi Sharma (2500320140152) | Mentor: Kalpana Dwivedi
+Project: P053 | Surbhi Sharma (2500320140152) | Mentor: Mr. Dinesh Sereno
 """
 
 import os
@@ -174,11 +174,11 @@ def build_abes_document():
         s.header_distance = Cm(1.25)
         s.footer_distance = Cm(1.25)
 
-        # Header: right, 8 pt 7F7F7F: ABES Engineering College | Project Document | PJ-IVD-2026
+        # Header: right, 8 pt 7F7F7F: ABES Engineering College | Project Document | P053
         header = s.header
         p_hdr = header.paragraphs[0]
         p_hdr.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        r_hdr = p_hdr.add_run("ABES Engineering College | Project Document | PJ-IVD-2026")
+        r_hdr = p_hdr.add_run("ABES Engineering College | Project Document | P053")
         r_hdr.font.name = "Calibri"
         r_hdr.font.size = Pt(8)
         r_hdr.font.color.rgb = RGBColor.from_string("7F7F7F")
@@ -203,69 +203,162 @@ def build_abes_document():
     normal.paragraph_format.space_before = Pt(0)
     normal.paragraph_format.space_after = Pt(0)
 
-    # ==================== PAGE 1: COVER ====================
-    p_inst = doc.add_paragraph()
-    p_inst.paragraph_format.space_after = Pt(5)
-    r_inst = p_inst.add_run("HCLTech Career Shaper Programme | ABES Engineering College, Ghaziabad")
-    r_inst.bold = True
-    r_inst.font.name = "Calibri"
-    r_inst.font.size = Pt(10)
-    r_inst.font.color.rgb = RGBColor.from_string("A51C30")
+    # ==================== PAGE 1: OFFICIAL ABES FRONT COVER ====================
+    # Logo
+    logo_path = os.path.join(DOCS_DIR, "abes_logo.png")
+    if os.path.exists(logo_path):
+        p_logo = doc.add_paragraph()
+        p_logo.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_logo.paragraph_format.space_before = Pt(0)
+        p_logo.paragraph_format.space_after = Pt(12)
+        r_logo = p_logo.add_run()
+        r_logo.add_picture(logo_path, width=Inches(2.6))
 
-    p_logo = doc.add_paragraph()
-    p_logo.paragraph_format.space_after = Pt(5)
-    r_logo = p_logo.add_run("[Insert ABES logo here]")
-    r_logo.font.name = "Calibri"
-    r_logo.font.size = Pt(9)
-    r_logo.font.italic = True
-    r_logo.font.color.rgb = RGBColor.from_string("7F7F7F")
+    # College Header
+    p_clg = doc.add_paragraph()
+    p_clg.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_clg.paragraph_format.space_before = Pt(0)
+    p_clg.paragraph_format.space_after = Pt(2)
+    r_clg = p_clg.add_run("ABES ENGINEERING COLLEGE")
+    r_clg.font.name = "Georgia"
+    r_clg.font.size = Pt(17)
+    r_clg.bold = True
+    r_clg.font.color.rgb = RGBColor.from_string("151514")
 
-    p_doc = doc.add_paragraph()
-    p_doc.paragraph_format.space_before = Pt(70)
-    p_doc.paragraph_format.space_after = Pt(6)
-    r_doc = p_doc.add_run("PROJECT DOCUMENT")
-    r_doc.font.name = "Georgia"
-    r_doc.font.size = Pt(26)
-    r_doc.bold = True
-    r_doc.font.color.rgb = RGBColor.from_string("151514")
+    p_city = doc.add_paragraph()
+    p_city.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_city.paragraph_format.space_after = Pt(2)
+    r_city = p_city.add_run("Ghaziabad, Uttar Pradesh")
+    r_city.font.name = "Calibri"
+    r_city.font.size = Pt(11)
+    r_city.font.color.rgb = RGBColor.from_string("333333")
 
-    p_proj = doc.add_paragraph()
-    p_proj.paragraph_format.space_after = Pt(12)
-    pPr = p_proj._p.get_or_add_pPr()
-    pBdr = parse_xml(f'<w:pBdr {nsdecls("w")}><w:bottom w:val="single" w:sz="12" w:space="4" w:color="A51C30"/></w:pBdr>')
-    pPr.append(pBdr)
-    r_proj = p_proj.add_run("PJ-IVD-2026 - Invoice Data Validation & Discrepancy Analytics Platform")
-    r_proj.font.name = "Georgia"
-    r_proj.font.size = Pt(18)
-    r_proj.font.color.rgb = RGBColor.from_string("A51C30")
+    p_aff = doc.add_paragraph()
+    p_aff.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_aff.paragraph_format.space_after = Pt(22)
+    r_aff = p_aff.add_run("Affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Uttar Pradesh")
+    r_aff.font.name = "Calibri"
+    r_aff.font.size = Pt(9.5)
+    r_aff.font.color.rgb = RGBColor.from_string("555555")
 
-    p_desc_line = doc.add_paragraph()
-    p_desc_line.paragraph_format.space_after = Pt(24)
-    r_dl = p_desc_line.add_run("Description · HMW · Stakeholders · Traceability · User Stories · BRD · TRD · Database Design · Test Cases · UI Framework")
-    r_dl.font.name = "Calibri"
-    r_dl.font.size = Pt(10)
-    r_dl.font.color.rgb = RGBColor.from_string("7F7F7F")
+    # Document Title
+    p_rep = doc.add_paragraph()
+    p_rep.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_rep.paragraph_format.space_after = Pt(3)
+    r_rep = p_rep.add_run("PROJECT REPORT")
+    r_rep.font.name = "Georgia"
+    r_rep.font.size = Pt(15)
+    r_rep.bold = True
+    r_rep.font.color.rgb = RGBColor.from_string("1E3A8A")
 
-    # Cover Table: Field 2900 | Details 6738 = 9638 dxa
-    cover_table = doc.add_table(rows=8, cols=2)
-    cover_widths = [2900, 6738]
-    cover_data = [
-        ("Project ID & Title", "PJ-IVD-2026 - Invoice Data Validation & Discrepancy Analytics Platform"),
-        ("Domain", "Data Analytics (Financial Analytics & Accounts Payable Automation)"),
-        ("Programme / Batch", "MCA 2nd Year Data Analyst - ABES_OND26_MCA Batch 02"),
-        ("Learner(s) & Roll No(s)", "Surbhi Sharma (Roll No: 2500320140152)"),
-        ("Mentor", "Kalpana Dwivedi (Assistant Professor, MCA, ABES)"),
-        ("GitHub repository", "https://github.com/2500320140152/invoice-validation-analytics"),
-        ("Live app (Streamlit)", "https://invoicehclproject.streamlit.app"),
-        ("Version & date", "v1.0 - 20/11/2026")
+    p_on = doc.add_paragraph()
+    p_on.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_on.paragraph_format.space_after = Pt(4)
+    r_on = p_on.add_run("on")
+    r_on.font.name = "Calibri"
+    r_on.font.size = Pt(11)
+    r_on.italic = True
+    r_on.font.color.rgb = RGBColor.from_string("555555")
+
+    p_title = doc.add_paragraph()
+    p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_title.paragraph_format.space_after = Pt(3)
+    r_t = p_title.add_run("Invoice Data Validation & Discrepancy Analytics Platform")
+    r_t.font.name = "Georgia"
+    r_t.font.size = Pt(15)
+    r_t.bold = True
+    r_t.font.color.rgb = RGBColor.from_string("151514")
+
+    p_sub = doc.add_paragraph()
+    p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_sub.paragraph_format.space_after = Pt(20)
+    r_s = p_sub.add_run("A Real-Time Accounts Payable Discrepancy Detection & Financial Reconciliation System")
+    r_s.font.name = "Calibri"
+    r_s.font.size = Pt(11)
+    r_s.font.color.rgb = RGBColor.from_string("475569")
+
+    # Submission Degree text
+    p_deg1 = doc.add_paragraph()
+    p_deg1.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_deg1.paragraph_format.space_after = Pt(2)
+    r_d1 = p_deg1.add_run("Submitted in partial fulfilment of the requirements for the degree of")
+    r_d1.font.name = "Calibri"
+    r_d1.font.size = Pt(10)
+    r_d1.font.color.rgb = RGBColor.from_string("333333")
+
+    p_deg2 = doc.add_paragraph()
+    p_deg2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_deg2.paragraph_format.space_after = Pt(2)
+    r_d2 = p_deg2.add_run("Master of Computer Applications")
+    r_d2.font.name = "Georgia"
+    r_d2.font.size = Pt(12)
+    r_d2.bold = True
+    r_d2.font.color.rgb = RGBColor.from_string("151514")
+
+    p_in = doc.add_paragraph()
+    p_in.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_in.paragraph_format.space_after = Pt(2)
+    r_in = p_in.add_run("in")
+    r_in.font.name = "Calibri"
+    r_in.font.size = Pt(10)
+    r_in.italic = True
+    r_in.font.color.rgb = RGBColor.from_string("555555")
+
+    p_deg3 = doc.add_paragraph()
+    p_deg3.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_deg3.paragraph_format.space_after = Pt(4)
+    r_d3 = p_deg3.add_run("Data Analytics")
+    r_d3.font.name = "Georgia"
+    r_d3.font.size = Pt(12)
+    r_d3.bold = True
+    r_d3.font.color.rgb = RGBColor.from_string("151514")
+
+    p_prog = doc.add_paragraph()
+    p_prog.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p_prog.paragraph_format.space_after = Pt(22)
+    r_pr = p_prog.add_run("Training Programme: HCLTech Career Shaper Programme")
+    r_pr.font.name = "Calibri"
+    r_pr.font.size = Pt(10.5)
+    r_pr.bold = True
+    r_pr.font.color.rgb = RGBColor.from_string("A51C30")
+
+    # Bottom Metadata Table (Borderless, clean aligned)
+    meta_table = doc.add_table(rows=7, cols=2)
+    meta_table.alignment = WD_TABLE_ALIGNMENT.CENTER
+    meta_rows = [
+        ("Submitted by:", "Surbhi Sharma"),
+        ("University Roll Number:", "2500320140152"),
+        ("Batch ID:", "ABES_OND26_MCA2ndYear_Data Analytics_Batch 01"),
+        ("Project ID:", "P053"),
+        ("Project Guide / Mentor:", "Mr. Dinesh Sereno"),
+        ("Academic Session:", "2026–2027"),
+        ("Submission Date:", "21 November 2026")
     ]
-    cover_table.rows[0].cells[0].text = "Field"
-    cover_table.rows[0].cells[1].text = "Details"
-    for idx, (fld, val) in enumerate(cover_data, start=0):
-        row = cover_table.rows[idx]
-        row.cells[0].text = fld
-        row.cells[1].text = val
-    format_table(cover_table, cover_widths)
+    meta_widths = [2800, 4800]
+    for idx, (lbl, val) in enumerate(meta_rows):
+        row = meta_table.rows[idx]
+        c0, c1 = row.cells[0], row.cells[1]
+        c0.width = Inches(2.6)
+        c1.width = Inches(4.2)
+        set_cell_margins(c0, top=30, bottom=30, left=50, right=50)
+        set_cell_margins(c1, top=30, bottom=30, left=50, right=50)
+        
+        p0 = c0.paragraphs[0]
+        p0.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        p0.paragraph_format.space_after = Pt(1)
+        r0 = p0.add_run(lbl)
+        r0.font.name = "Calibri"
+        r0.font.size = Pt(10)
+        r0.bold = True
+        r0.font.color.rgb = RGBColor.from_string("151514")
+        
+        p1 = c1.paragraphs[0]
+        p1.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        p1.paragraph_format.space_after = Pt(1)
+        r1 = p1.add_run(val)
+        r1.font.name = "Calibri"
+        r1.font.size = Pt(10)
+        r1.font.color.rgb = RGBColor.from_string("222222")
 
     doc.add_page_break()
 
@@ -307,7 +400,7 @@ def build_abes_document():
     desc_table = doc.add_table(rows=8, cols=2)
     desc_widths = [2400, 7238]
     desc_data = [
-        ("Overview", "The Invoice Data Validation & Discrepancy Analytics Platform (PJ-IVD-2026) is an end-to-end financial analytics solution designed to automate the reconciliation of corporate accounts payable transactions. Built on Python, SQLite, Plotly, and Streamlit, it detects arithmetic errors, duplicate submissions, tax non-compliance, and PO variances."),
+        ("Overview", "The Invoice Data Validation & Discrepancy Analytics Platform (P053) is an end-to-end financial analytics solution designed to automate the reconciliation of corporate accounts payable transactions. Built on Python, SQLite, Plotly, and Streamlit, it detects arithmetic errors, duplicate submissions, tax non-compliance, and PO variances."),
         ("Problem statement", "Traditional enterprise invoice reconciliation relies on manual sampling of less than 10-15% of transactions. This leaves small-to-mid dollar discrepancies undetected, causing an estimated ₹50+ Lakhs in annual financial leakage per ₹100 Crore corporate spend, alongside tax penalty risks."),
         ("Intended users", "Accounts Payable Specialists, AP Managers, Internal Auditors, Chief Financial Officers (CFOs), and Procurement Category Leads."),
         ("In scope", "SQLite relational schema, synthetic dataset (300+ invoices across 30 vendors), multi-dimensional validation algorithms, Vendor Risk Indexing (VRI), interactive Streamlit dashboard, and automated Pytest test suite."),
@@ -681,8 +774,8 @@ def build_abes_document():
     # ==================== APPENDIX A ====================
     add_heading_1(doc, "Appendix A - Prompt to generate this document")
     add_label(doc, "MY PREFERENCES", color="A51C30")
-    add_code(doc, "PROJECT ID: PJ-IVD-2026 | TITLE: Invoice Data Validation & Discrepancy Analytics Platform | DOMAIN: Financial Analytics & AP Automation")
-    add_code(doc, "LEARNER: Surbhi Sharma | ROLL NO: 2500320140152 | MENTOR: Kalpana Dwivedi | BATCH: ABES_OND26_MCA Batch 02")
+    add_code(doc, "PROJECT ID: P053 | TITLE: Invoice Data Validation & Discrepancy Analytics Platform | DOMAIN: Financial Analytics & AP Automation")
+    add_code(doc, "LEARNER: Surbhi Sharma | ROLL NO: 2500320140152 | MENTOR: Mr. Dinesh Sereno | BATCH: ABES_OND26_MCA2ndYear_Data Analytics_Batch 01")
     add_code(doc, "INTENDED USERS: AP Specialists, AP Managers, Internal Auditors, CFO, Procurement Category Leads")
     add_code(doc, "PROBLEM IN MY WORDS: Manual invoice sampling leaves calculation errors, duplicate bills, and PO price creep undetected.")
     add_code(doc, "DATASET: Synthetic SQLite database with 30 vendors, 150 POs, 304 invoices, 1056 line items, and 69 discrepancies.")
